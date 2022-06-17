@@ -1,0 +1,5049 @@
+		{,
+			"word" : "ash",
+			"translateFrom" : "One,1",
+		},
+		{,
+			"word" : "dub",
+			"translateFrom" : "two,2",
+		},
+		{,
+			"word" : "gakh",
+			"translateFrom" : "three,3",
+		},
+		{,
+			"word" : "zag",
+			"translateFrom" : "four,4",
+		},
+		{,
+			"word" : "kr�k",
+			"translateFrom" : "five,5",
+		},
+		{,
+			"word" : "rut",
+			"translateFrom" : "six,6",
+		},
+		{,
+			"word" : "udu",
+			"translateFrom" : "seven,7",
+		},
+		{,
+			"word" : "skri",
+			"translateFrom" : "eight,8",
+		},
+		{,
+			"word" : "krith",
+			"translateFrom" : "nine,9,nein",
+		},
+		{,
+			"word" : "gal",
+			"translateFrom" : "ten,10",
+		},
+		{,
+			"word" : "galash",
+			"translateFrom" : "eleven,11",
+		},
+		{,
+			"word" : "galkrul",
+			"translateFrom" : "twelve,12",
+		},
+		{,
+			"word" : "galagakh",
+			"translateFrom" : "thirteen,13",
+		},
+		{,
+			"word" : "galzag",
+			"translateFrom" : "fourteen,14",
+		},
+		{,
+			"word" : "galkr�k",
+			"translateFrom" : "fifthteen,15",
+		},
+		{,
+			"word" : "galrut",
+			"translateFrom" : "sixteen,16",
+		},
+		{,
+			"word" : "galudu",
+			"translateFrom" : "seventeen,17",
+		},
+		{,
+			"word" : "galskri",
+			"translateFrom" : "eighteen,18",
+		},
+		{,
+			"word" : "galkrith",
+			"translateFrom" : "nineteen,19",
+		},
+		{,
+			"word" : "krugal",
+			"translateFrom" : "twenty,20",
+		},
+		{,
+			"word" : "gakhgal",
+			"translateFrom" : "thirty,30",
+		},
+		{,
+			"word" : "zagal",
+			"translateFrom" : "forty,40",
+		},
+		{,
+			"word" : "kr�gal",
+			"translateFrom" : "fifty,50",
+		},
+		{,
+			"word" : "rutgal",
+			"translateFrom" : "sixty,60",
+		},
+		{,
+			"word" : "utgal",
+			"translateFrom" : "seventy,70",
+		},
+		{,
+			"word" : "skragh",
+			"translateFrom" : "eighty,80",
+		},
+		{,
+			"word" : "krithgal",
+			"translateFrom" : "ninety,90",
+		},
+		{,
+			"word" : "b�r",
+			"translateFrom" : "hundred,100",
+		},
+		{,
+			"word" : "tor",
+			"translateFrom" : "thousand,1000",
+		},
+		{,
+			"word" : "krugal",
+			"translateFrom" : "ten thousand,10000",
+		},
+		{,
+			"word" : "gakhgal",
+			"translateFrom" : "hundred thousand,100000",
+		},
+		{,
+			"word" : "zagal",
+			"translateFrom" : "milljion million,1000000",
+		},
+		{,
+			"word" : "nar",
+			"translateFrom" : "0,zero,null,nul",
+		},
+		{,
+			"word" : "glad",
+			"translateFrom" : "feet,foot",
+		},
+		{,
+			"word" : "but",
+			"translateFrom" : "pound,pounds",
+		},
+		{,
+			"word" : "parz",
+			"translateFrom" : "cup,cups",
+		},
+		{,
+			"word" : "k�r",
+			"translateFrom" : "teaspoon,teaspoons",
+		
+		},
+		{
+			"word" : "k�ra",
+			"translateFrom" : "tablespoon,tablespoons"
+		},
+		{
+			"word" : "k�rka",
+			"translateFrom" : "liter,liters"
+		},
+		{
+			"word" : "tal�n",
+			"translateFrom" : "North,northern"
+		},
+		{
+			"word" : "lat�n",
+			"translateFrom" : "South,southern"
+		},
+		{
+			"word" : "gh�nsh",
+			"translateFrom" : "East,eastern"
+		},
+		{
+			"word" : "�nud",
+			"translateFrom" : "West,western"
+		},
+		{
+			"word" : "?dh-",
+			"translateFrom" : "leave,abandon"
+		},
+		{
+			"word" : "?dh?n",
+			"translateFrom" : "alone"
+		},
+		{
+			"word" : "aan",
+			"translateFrom" : "sun"
+		},
+		{
+			"word" : "aanash",
+			"translateFrom" : "dawn"
+		},
+		{
+			"word" : "aanud",
+			"translateFrom" : "South"
+		},
+		{
+			"word" : "aanug",
+			"translateFrom" : "morning"
+		},
+		{
+			"word" : "aaps",
+			"translateFrom" : "meat"
+		},
+		{
+			"word" : "aar",
+			"translateFrom" : "early"
+		},
+		{
+			"word" : "aarsh",
+			"translateFrom" : "day"
+		},
+		{
+			"word" : "aaraarsh",
+			"translateFrom" : "morning,dawn"
+		},
+		{
+			"word" : "aarshl?t",
+			"translateFrom" : "yesterday"
+		},
+		{
+			"word" : "aarshu",
+			"translateFrom" : "tomorrow"
+		},
+		{
+			"word" : "aar?rz",
+			"translateFrom" : "soon"
+		},
+		{
+			"word" : "aath",
+			"translateFrom" : "dog"
+		},
+		{
+			"word" : "af-",
+			"translateFrom" : "throw,cast"
+		},
+		{
+			"word" : "agh",
+			"translateFrom" : "and"
+		},
+		{
+			"word" : "agon",
+			"translateFrom" : "twilight,dusk"
+		},
+		{
+			"word" : "ak-",
+			"translateFrom" : "cut,stab"
+		},
+		{
+			"word" : "akash",
+			"translateFrom" : "half"
+		},
+		{
+			"word" : "akashuga",
+			"translateFrom" : "hobbit,halfling"
+		},
+		{
+			"word" : "akashuga-hai",
+			"translateFrom" : "hobbit-people"
+		},
+		{
+			"word" : "akh",
+			"translateFrom" : "yes"
+		},
+		{
+			"word" : "akh-",
+			"translateFrom" : "agree"
+		},
+		{
+			"word" : "akhoth",
+			"translateFrom" : "Yes sir"
+		},
+		{
+			"word" : "akhum",
+			"translateFrom" : "agreement"
+		},
+		{
+			"word" : "aklash",
+			"translateFrom" : "music"
+		},
+		{
+			"word" : "akul",
+			"translateFrom" : "chest,torso"
+		},
+		{
+			"word" : "akr-",
+			"translateFrom" : "drink"
+		},
+		{
+			"word" : "akrum",
+			"translateFrom" : "alcoholic drink, alchol, rum, vodka, grug, gin, whiskey"
+		},
+		{
+			"word" : "akr?rz",
+			"translateFrom" : "drunk"
+		},
+		{
+			"word" : "ak?l",
+			"translateFrom" : "ice,glacier"
+		},
+		{
+			"word" : "alai",
+			"translateFrom" : "animal"
+		},
+		{
+			"word" : "amal",
+			"translateFrom" : "where"
+		},
+		{
+			"word" : "amat",
+			"translateFrom" : "why"
+		},
+		{
+			"word" : "?mbal",
+			"translateFrom" : "pretty"
+		},
+		{
+			"word" : "amol",
+			"translateFrom" : "how"
+		},
+		{
+			"word" : "amirz",
+			"translateFrom" : "who"
+		},
+		{
+			"word" : "amub",
+			"translateFrom" : "more than,more"
+		},
+		{
+		"word" : "amubnar",
+		"translateFrom" : "as soon as,soon"
+		},
+		{
+			"word" : "amukh",
+			"translateFrom" : "when"
+		},
+		{
+			"word" : "?mul",
+			"translateFrom" : "calm"
+		},
+		{
+			"word" : "amut",
+			"translateFrom" : "which"
+		},
+		{
+			"word" : "ana",
+			"translateFrom" : "edge"
+		},
+		{
+			"word" : "aandar",
+			"translateFrom" : "mystery"
+		},
+		{
+			"word" : "aandart?rz",
+			"translateFrom" : "mysterious"
+		},
+		{
+			"word" : "?ngh?sh",
+			"translateFrom" : "anvil"
+		},
+		{
+			"word" : "?ngh-",
+			"translateFrom" : "forge"
+		},
+		{
+			"word" : "aanghum",
+			"translateFrom" : "forge"
+		},
+		{
+			"word" : "aquu-",
+			"translateFrom" : "bribe"
+		},
+		{
+			"word" : "ar",
+			"translateFrom" : "nut"
+		},
+		{
+			"word" : "ark?",
+			"translateFrom" : "ever"
+		},
+		{
+			"word" : "arth",
+			"translateFrom" : "artisan"
+		},
+		{
+			"word" : "ash",
+			"translateFrom" : "one"
+		},
+		{
+			"word" : "ash-",
+			"translateFrom" : "start,begin"
+		},
+		{
+			"word" : "ashbazg",
+			"translateFrom" : "rather"
+		},
+		{
+			"word" : "ashdurb?k",
+			"translateFrom" : "despotism"
+		},
+		{
+			"word" : "ashpar",
+			"translateFrom" : "rugged"
+		},
+		{
+			"word" : "ashrokil",
+			"translateFrom" : "breakfast"
+		},
+		{
+			"word" : "asht",
+			"translateFrom" : "skeleton,bone,boner,boney"
+		},
+		{
+			"word" : "ash?k",
+			"translateFrom" : "alone"
+		},
+		{
+			"word" : "?sh?rz",
+			"translateFrom" : "first"
+		},
+		{
+			"word" : "asr",
+			"translateFrom" : "knot"
+		},
+		{
+			"word" : "at?r",
+			"translateFrom" : "fact"
+		},
+		{
+			"word" : "at?g",
+			"translateFrom" : "over there,there"
+		},
+		{
+			"word" : "atish",
+			"translateFrom" : "container"
+		},
+		{
+			"word" : "atish-",
+			"translateFrom" : "keep"
+		},
+		{
+			"word" : "ats-",
+			"translateFrom" : "catch"
+		},
+		{
+			"word" : "aurok",
+			"translateFrom" : "mortar"
+		},
+		{
+			"word" : "auru",
+			"translateFrom" : "few"
+		},
+		{
+			"word" : "?vul",
+			"translateFrom" : "steam,fumes"
+		},
+		{
+			"word" : "az-",
+			"translateFrom" : "kill"
+		},
+		{
+			"word" : "ba-",
+			"translateFrom" : "lock"
+		},
+		{
+			"word" : "baab",
+			"translateFrom" : "pipe"
+		},
+		{
+			"word" : "baabgh?d",
+			"translateFrom" : "pipeweed"
+		},
+		{
+			"word" : "baal-",
+			"translateFrom" : "breed"
+		},
+		{
+			"word" : "baalum",
+			"translateFrom" : "breed"
+		},
+		{
+			"word" : "baalak",
+			"translateFrom" : "half-breed"
+		},
+		{
+			"word" : "baak",
+			"translateFrom" : "shame,embarrassment"
+		},
+		{
+			"word" : "b?rzuga",
+			"translateFrom" : "finished"
+		},
+		{
+			"word" : "baduzg-",
+			"translateFrom" : "reveal,show"
+		},
+		{
+			"word" : "badz",
+			"translateFrom" : "an opening,opening"
+		},
+		{
+			"word" : "badz-",
+			"translateFrom" : "open"
+		},
+		{
+			"word" : "badz?rz",
+			"translateFrom" : "open"
+		},
+		{
+			"word" : "bag",
+			"translateFrom" : "excrement,dung"
+		},
+		{
+			"word" : "baga",
+			"translateFrom" : "poison"
+		},
+		{
+			"word" : "bagronk",
+			"translateFrom" : "dung-pit,cess-pool"
+		},
+		{
+			"word" : "bag?rz",
+			"translateFrom" : "poisonous"
+		},
+		{
+			"word" : "bai",
+			"translateFrom" : "danger"
+		},
+		{
+			"word" : "baiark",
+			"translateFrom" : "clan"
+		},
+		{
+			"word" : "bai?rz",
+			"translateFrom" : "dangerous"
+		},
+		{
+			"word" : "bak",
+			"translateFrom" : "shock"
+		},
+		{
+			"word" : "bak-",
+			"translateFrom" : "shock"
+		},
+		{
+			"word" : "balt",
+			"translateFrom" : "marsh"
+		},
+		{
+			"word" : "ban?s",
+			"translateFrom" : "farm"
+		},
+		{
+			"word" : "bar",
+			"translateFrom" : "grass"
+		},
+		{
+			"word" : "barash-",
+			"translateFrom" : "crush"
+		},
+		{
+			"word" : "barkh",
+			"translateFrom" : "curve,arch"
+		},
+		{
+			"word" : "bartaas-",
+			"translateFrom" : "roar,yell"
+		},
+		{
+			"word" : "barz",
+			"translateFrom" : "throat"
+		},
+		{
+			"word" : "bash",
+			"translateFrom" : "regular"
+		},
+		{
+			"word" : "bashkaum",
+			"translateFrom" : "alliance"
+		},
+		{
+			"word" : "bashkuga",
+			"translateFrom" : "allied"
+		},
+		{
+			"word" : "batar",
+			"translateFrom" : "shower,squall"
+		},
+		{
+			"word" : "baug",
+			"translateFrom" : "fork"
+		},
+		{
+			"word" : "baush",
+			"translateFrom" : "tail"
+		},
+		{
+			"word" : "bauz-",
+			"translateFrom" : "shoot"
+		},
+		{
+			"word" : "bazg-",
+			"translateFrom" : "reach"
+		},
+		{
+			"word" : "bhad?r",
+			"translateFrom" : "a change,change"
+		},
+		{
+			"word" : "bhad?r-",
+			"translateFrom" : "to change"
+		},
+		{
+			"word" : "bhoghad",
+			"translateFrom" : "all right,very well,okay"
+		},
+		{
+			"word" : "bhraf-",
+			"translateFrom" : "smoke"
+		},
+		{
+			"word" : "bh?l-",
+			"translateFrom" : "accept"
+		},
+		{
+			"word" : "bidroi",
+			"translateFrom" : "revenge"
+		},
+		{
+			"word" : "b?sh?k",
+			"translateFrom" : "heath,moor"
+		},
+		{
+			"word" : "blagh",
+			"translateFrom" : "boring"
+		},
+		{
+			"word" : "bl?ghor",
+			"translateFrom" : "fold"
+		},
+		{
+			"word" : "bl?ghorsha",
+			"translateFrom" : "complex"
+		},
+		{
+			"word" : "bl?ghorsh-",
+			"translateFrom" : "complicate"
+		},
+		{
+			"word" : "bl?ghorsh?rz",
+			"translateFrom" : "complex"
+		},
+		{
+			"word" : "bl?ghorshuga",
+			"translateFrom" : "complicated"
+		},
+		{
+			"word" : "blaaghr-",
+			"translateFrom" : "fold"
+		},
+		{
+			"word" : "blord-",
+			"translateFrom" : "weep"
+		},
+		{
+			"word" : "blotaz",
+			"translateFrom" : "birch"
+		},
+		{
+			"word" : "bloz",
+			"translateFrom" : "soot"
+		},
+		{
+			"word" : "bl?g",
+			"translateFrom" : "grain,seed,corn"
+		},
+		{
+			"word" : "bl?g-",
+			"translateFrom" : "grind"
+		},
+		{
+			"word" : "bok",
+			"translateFrom" : "wine jar,megapint,pint,jar"
+		},
+		{
+			"word" : "bolb",
+			"translateFrom" : "catastrophe,disaster"
+		},
+		{
+			"word" : "bolk-",
+			"translateFrom" : "need"
+		},
+		{
+			"word" : "bolkum",
+			"translateFrom" : "need"
+		},
+		{
+			"word" : "bos",
+			"translateFrom" : "cult"
+		},
+		{
+			"word" : "boshok",
+			"translateFrom" : "highlands"
+		},
+		{
+		"word" : "bot",
+		"translateFrom" : "world,clay"
+		},
+		{
+		"word" : "brish",
+		"translateFrom" : "sheep"
+		},
+		{
+		"word" : "brishzel",
+		"translateFrom" : "would"
+		},
+		{
+		"word" : "br?",
+		"translateFrom" : "horn"
+		},
+		{
+		"word" : "br?z",
+		"translateFrom" : "horny"
+		},
+		{
+		"word" : "brodh",
+		"translateFrom" : "pine needle"
+		},
+		{
+		"word" : "brogb-",
+		"translateFrom" : "like,fancy,favor"
+		},
+		{
+		"word" : "brogb?rzum",
+		"translateFrom" : "favourite"
+		},
+		{
+		"word" : "brogud",
+		"translateFrom" : "nibble,small bite"
+		},
+		{
+		"word" : "brogud-",
+		"translateFrom" : "take a small bite,gnaw"
+		},
+		{
+		"word" : "brogudskoi",
+		"translateFrom" : "Biting flies"
+		},
+		{
+		"word" : "brosh",
+		"translateFrom" : "hey int"
+		},
+		{
+		"word" : "broshan",
+		"translateFrom" : "welcome"
+		},
+		{
+		"word" : "broshn-",
+		"translateFrom" : "welcome"
+		},
+		{
+		"word" : "broz",
+		"translateFrom" : "belt,zone"
+		},
+		{
+		"word" : "bruk",
+		"translateFrom" : "collar,cowl"
+		},
+		{
+		"word" : "brumug",
+		"translateFrom" : "grumble,complaint"
+		},
+		{
+		"word" : "brumg-",
+		"translateFrom" : "grumble"
+		},
+		{
+		"word" : "brun",
+		"translateFrom" : "group of people,committee"
+		},
+		{
+		"word" : "brus-",
+		"translateFrom" : "have"
+		},
+		{
+		"word" : "br?f",
+		"translateFrom" : "insect,ant"
+		},
+		{
+		"word" : "bug",
+		"translateFrom" : "opposite,opponent"
+		},
+		{
+		"word" : "bugd-",
+		"translateFrom" : "call LL"
+		},
+		{
+		"word" : "bugduga",
+		"translateFrom" : "named"
+		},
+		{
+		"word" : "bugh",
+		"translateFrom" : "root,origin"
+		},
+		{
+		"word" : "bughnrakh",
+		"translateFrom" : "potato"
+		},
+		{
+		"word" : "bugab",
+		"translateFrom" : "contradiction"
+		},
+		{
+		"word" : "bugb-",
+		"translateFrom" : "contradict"
+		},
+		{
+		"word" : "bugnakh",
+		"translateFrom" : "fracture"
+		},
+		{
+		"word" : "bugud",
+		"translateFrom" : "name"
+		},
+		{
+		"word" : "bukoi",
+		"translateFrom" : "civil"
+		},
+		{
+		"word" : "bukol",
+		"translateFrom" : "thin"
+		},
+		{
+		"word" : "bukot",
+		"translateFrom" : "peace"
+		},
+		{
+		"word" : "bukra",
+		"translateFrom" : "clan,gang,lot"
+		},
+		{
+		"word" : "bulmos",
+		"translateFrom" : "spice"
+		},
+		{
+		"word" : "bum",
+		"translateFrom" : "drumbeat,loud sound,horn,rythm"
+		},
+		{
+		"word" : "bumbullaum",
+		"translateFrom" : "thunder"
+		},
+		{
+		"word" : "bun",
+		"translateFrom" : "angle,corner"
+		},
+		{
+		"word" : "bungo",
+		"translateFrom" : "dent"
+		},
+		{
+		"word" : "bur",
+		"translateFrom" : "weight"
+		},
+		{
+		"word" : "b?b",
+		"translateFrom" : "pig"
+		},
+		{
+		"word" : "b?bhosh",
+		"translateFrom" : "pig-guts,great"
+		},
+		{
+		"word" : "b?f",
+		"translateFrom" : "loss,defeat"
+		},
+		{
+		"word" : "b?kas?",
+		"translateFrom" : "agriculture"
+		},
+		{
+		"word" : "bur?rz",
+		"translateFrom" : "heavy"
+		},
+		{
+		"word" : "b?rgulu",
+		"translateFrom" : "shadows"
+		},
+		{
+		"word" : "b?rz",
+		"translateFrom" : "dark,night"
+		},
+		{
+		"word" : "burzash",
+		"translateFrom" : "balance"
+		},
+		{
+		"word" : "b?rzum",
+		"translateFrom" : "darkness"
+		},
+		{
+		"word" : "b?sh",
+		"translateFrom" : "chair,seat"
+		},
+		{
+		"word" : "b?shn-",
+		"translateFrom" : "mix,muddle up"
+		},
+		{
+		"word" : "b?shn?rz",
+		"translateFrom" : "mixed up"
+		},
+		{
+		"word" : "b?shum",
+		"translateFrom" : "mixture"
+		},
+		{
+		"word" : "b?sn",
+		"translateFrom" : "scattered"
+		},
+		{
+		"word" : "b?th",
+		"translateFrom" : "chance,opportunity"
+		},
+		{
+		"word" : "b?zog",
+		"translateFrom" : "mess"
+		},
+		{
+		"word" : "buthagh-",
+		"translateFrom" : "annoy,pester,bother"
+		},
+		{
+		"word" : "buz",
+		"translateFrom" : "streak,stripe"
+		},
+		{
+		"word" : "d?g",
+		"translateFrom" : "child"
+		},
+		{
+		"word" : "d?gal",
+		"translateFrom" : "childhood"
+		},
+		{
+		"word" : "d?gal?r",
+		"translateFrom" : "demon"
+		},
+		{
+		"word" : "d?l",
+		"translateFrom" : "still,plane"
+		},
+		{
+		"word" : "daalt",
+		"translateFrom" : "table"
+		},
+		{
+		"word" : "d?r",
+		"translateFrom" : "house,hut"
+		},
+		{
+		"word" : "daash",
+		"translateFrom" : "still"
+		},
+		{
+		"word" : "dabg-",
+		"translateFrom" : "deport"
+		},
+		{
+		"word" : "dafr-",
+		"translateFrom" : "party,carouse"
+		},
+		{
+		"word" : "dafrim",
+		"translateFrom" : "sport"
+		},
+		{
+		"word" : "dafrum",
+		"translateFrom" : "party"
+		},
+		{
+		"word" : "dardt",
+		"translateFrom" : "standard"
+		},
+		{
+		"word" : "dagam",
+		"translateFrom" : "fat"
+		},
+		{
+		"word" : "dagr?",
+		"translateFrom" : "goat"
+		},
+		{
+		"word" : "dagronk",
+		"translateFrom" : "door"
+		},
+		{
+		"word" : "dah?mab",
+		"translateFrom" : "tusk,incisor"
+		},
+		{
+		"word" : "dakg-",
+		"translateFrom" : "disembowel"
+		},
+		{
+		"word" : "dalg-",
+		"translateFrom" : "rid,clear out,remove"
+		},
+		{
+		"word" : "dalgum",
+		"translateFrom" : "garbage,trash"
+		},
+		{
+		"word" : "dalug-hai",
+		"translateFrom" : "rabble,ruff,vagabonds,bandits,idiots"
+		},
+		{
+		"word" : "dangh-",
+		"translateFrom" : "punish"
+		},
+		{
+		"word" : "danghum",
+		"translateFrom" : "punishment"
+		},
+		{
+		"word" : "darg",
+		"translateFrom" : "blunt"
+		},
+		{
+		"word" : "darg-",
+		"translateFrom" : "send"
+		},
+		{
+		"word" : "dargum",
+		"translateFrom" : "ambassador,emissary"
+		},
+		{
+		"word" : "darug",
+		"translateFrom" : "sent"
+		},
+		{
+		"word" : "dar?k",
+		"translateFrom" : "ingratiating fool,hypocrite,Wormtongue"
+		},
+		{
+		"word" : "dar?k?rz",
+		"translateFrom" : "silly,weak"
+		},
+		{
+		"word" : "dath",
+		"translateFrom" : "conservative"
+		},
+		{
+		"word" : "daul",
+		"translateFrom" : "drum"
+		},
+		{
+		"word" : "dauman",
+		"translateFrom" : "winter"
+		},
+		{
+		"word" : "daur",
+		"translateFrom" : "cage"
+		},
+		{
+		"word" : "dhaar",
+		"translateFrom" : "rank,grade,status"
+		},
+		{
+		"word" : "dhaaryonk",
+		"translateFrom" : "promotion"
+		},
+		{
+		"word" : "dhak",
+		"translateFrom" : "ceremony"
+		},
+		{
+		"word" : "dhaub",
+		"translateFrom" : "agony"
+		},
+		{
+		"word" : "dhaub-",
+		"translateFrom" : "agonise"
+		},
+		{
+		"word" : "dh?t",
+		"translateFrom" : "fraction"
+		},
+		{
+		"word" : "-dhog",
+		"translateFrom" : "near,next to prep"
+		},
+		{
+		"word" : "dhogn?rz",
+		"translateFrom" : "far"
+		},
+		{
+		"word" : "dhurz",
+		"translateFrom" : "because"
+		},
+		{
+		"word" : "dh?l-",
+		"translateFrom" : "sleep"
+		},
+		{
+		"word" : "dh?rum",
+		"translateFrom" : "secret"
+		},
+		{
+		"word" : "dh?r-",
+		"translateFrom" : "confess"
+		},
+		{
+		"word" : "dh?rz",
+		"translateFrom" : "secret"
+		},
+		{
+		"word" : "dh?zud",
+		"translateFrom" : "just"
+		},
+		{
+		"word" : "diis-",
+		"translateFrom" : "attack"
+		},
+		{
+		"word" : "diisum",
+		"translateFrom" : "attack"
+		},
+		{
+		"word" : "dik-",
+		"translateFrom" : "capture"
+		},
+		{
+		"word" : "dob",
+		"translateFrom" : "field"
+		},
+		{
+		"word" : "dolpan",
+		"translateFrom" : "fox,bull"
+		},
+		{
+		"word" : "doraz",
+		"translateFrom" : "gate"
+		},
+		{
+		"word" : "dorozg-",
+		"translateFrom" : "capitulate,surrender"
+		},
+		{
+		"word" : "dor?t",
+		"translateFrom" : "cattle,livestock"
+		},
+		{
+		"word" : "dot",
+		"translateFrom" : "sea,ocean"
+		},
+		{
+		"word" : "drau-",
+		"translateFrom" : "shine,gleam"
+		},
+		{
+		"word" : "draug",
+		"translateFrom" : "coin"
+		},
+		{
+		"word" : "dursh",
+		"translateFrom" : "bridge"
+		},
+		{
+		"word" : "draagh",
+		"translateFrom" : "hammer"
+		},
+		{
+		"word" : "draagh-",
+		"translateFrom" : "build,construct,demolish,knock down"
+		},
+		{
+		"word" : "dr?t",
+		"translateFrom" : "straight,honest,absolute"
+		},
+		{
+		"word" : "dromdas",
+		"translateFrom" : "nervous"
+		},
+		{
+		"word" : "dr?",
+		"translateFrom" : "timber,wood"
+		},
+		{
+		"word" : "dr?sh-",
+		"translateFrom" : "drown"
+		},
+		{
+		"word" : "dr?th",
+		"translateFrom" : "bush"
+		},
+		{
+		"word" : "du-",
+		"translateFrom" : "charge"
+		},
+		{
+		"word" : "duf",
+		"translateFrom" : "knife"
+		},
+		{
+		"word" : "dulg-",
+		"translateFrom" : "point"
+		},
+		{
+		"word" : "dulug",
+		"translateFrom" : "point,weapon"
+		},
+		{
+		"word" : "dum",
+		"translateFrom" : "charge,responsibility,duty"
+		},
+		{
+		"word" : "dum?l",
+		"translateFrom" : "quick"
+		},
+		{
+		"word" : "dum?larz",
+		"translateFrom" : "quickly"
+		},
+		{
+		"word" : "d?mp-",
+		"translateFrom" : "doom"
+		},
+		{
+		"word" : "dur",
+		"translateFrom" : "large,big"
+		},
+		{
+		"word" : "durb-",
+		"translateFrom" : "rule"
+		},
+		{
+		"word" : "durb-artha",
+		"translateFrom" : "masterpiece"
+		},
+		{
+		"word" : "durb?rz",
+		"translateFrom" : "strong,mighty"
+		},
+		{
+		"word" : "durub?rz",
+		"translateFrom" : "as a rule,per rules,rules,the rules,rule of thumb"
+		},
+		{
+		"word" : "durgaz",
+		"translateFrom" : "size"
+		},
+		{
+		"word" : "durub",
+		"translateFrom" : "ruler"
+		},
+		{
+		"word" : "durlob",
+		"translateFrom" : "female ruler,queen,countess,barnoness,lady"
+		},
+		{
+		"word" : "durt",
+		"translateFrom" : "certain,sure"
+		},
+		{
+		"word" : "dush",
+		"translateFrom" : "sorcery"
+		},
+		{
+		"word" : "dush-",
+		"translateFrom" : "to make magic, to cast a spell on someone,cast,curse"
+		},
+		{
+		"word" : "dushak",
+		"translateFrom" : "oak"
+		},
+		{
+		"word" : "dushat?r",
+		"translateFrom" : "wizard,magician,sorcerer"
+		},
+		{
+		"word" : "dushtala",
+		"translateFrom" : "storm"
+		},
+		{
+		"word" : "dushum",
+		"translateFrom" : "spell"
+		},
+		{
+		"word" : "dush?rz",
+		"translateFrom" : "magical"
+		},
+		{
+		"word" : "duughord",
+		"translateFrom" : "produce"
+		},
+		{
+		"word" : "duughord-",
+		"translateFrom" : "produce"
+		},
+		{
+		"word" : "d?nud",
+		"translateFrom" : "stretch"
+		},
+		{
+		"word" : "d?ndr-",
+		"translateFrom" : "stretch"
+		},
+		{
+		"word" : "d?ndrogh-",
+		"translateFrom" : "extend"
+		},
+		{
+		"word" : "d?ndroghuga",
+		"translateFrom" : "extended"
+		},
+		{
+		"word" : "duurfit-",
+		"translateFrom" : "have luck"
+		},
+		{
+		"word" : "d?th-",
+		"translateFrom" : "polish,clean"
+		},
+		{
+		"word" : "duz-",
+		"translateFrom" : "sit"
+		},
+		{
+		"word" : "faal",
+		"translateFrom" : "beach,shore"
+		},
+		{
+		"word" : "faash",
+		"translateFrom" : "accident"
+		},
+		{
+		"word" : "faasharz",
+		"translateFrom" : "accidentally"
+		},
+		{
+		"word" : "fakhthal",
+		"translateFrom" : "butcher"
+		},
+		{
+		"word" : "fal-",
+		"translateFrom" : "charm"
+		},
+		{
+		"word" : "falgashud",
+		"translateFrom" : "chance"
+		},
+		{
+		"word" : "faltor",
+		"translateFrom" : "temple"
+		},
+		{
+		"word" : "falum",
+		"translateFrom" : "charm"
+		},
+		{
+		"word" : "farghat",
+		"translateFrom" : "jump"
+		},
+		{
+		"word" : "farkh",
+		"translateFrom" : "left"
+		},
+		{
+		"word" : "farmak",
+		"translateFrom" : "lizard"
+		},
+		{
+		"word" : "fatoft",
+		"translateFrom" : "depressing,dismal"
+		},
+		{
+		"word" : "fauldush",
+		"translateFrom" : "ivory,marble"
+		},
+		{
+		"word" : "faus",
+		"translateFrom" : "manor"
+		},
+		{
+		"word" : "fauth-",
+		"translateFrom" : "lie hidden, hide, wait"
+		},
+		{
+		"word" : "fauth?rz",
+		"translateFrom" : "hidden"
+		},
+		{
+		"word" : "f?g-",
+		"translateFrom" : "humiliate"
+		},
+		{
+		"word" : "f?g?",
+		"translateFrom" : "insult"
+		},
+		{
+		"word" : "f?g?rz",
+		"translateFrom" : "humiliating"
+		},
+		{
+		"word" : "fiil",
+		"translateFrom" : "bird"
+		},
+		{
+		"word" : "fiim",
+		"translateFrom" : "youth young age,youngster,youngling,kub,child"
+		},
+		{
+		"word" : "fiin",
+		"translateFrom" : "new"
+		},
+		{
+		"word" : "fiith-",
+		"translateFrom" : "hold"
+		},
+		{
+		"word" : "fik",
+		"translateFrom" : "bad"
+		},
+		{
+		"word" : "fil",
+		"translateFrom" : "cave,crack"
+		},
+		{
+		"word" : "fitg-",
+		"translateFrom" : "win"
+		},
+		{
+		"word" : "fitum",
+		"translateFrom" : "winner"
+		},
+		{
+		"word" : "fkha",
+		"translateFrom" : "massive"
+		},
+		{
+		"word" : "fl?g?t",
+		"translateFrom" : "idiot"
+		},
+		{
+		"word" : "flaguz",
+		"translateFrom" : "monster"
+		},
+		{
+		"word" : "flak",
+		"translateFrom" : "chest,box"
+		},
+		{
+		"word" : "flakas",
+		"translateFrom" : "sling"
+		},
+		{
+		"word" : "flaks-",
+		"translateFrom" : "sling"
+		},
+		{
+		"word" : "flauth",
+		"translateFrom" : "feather"
+		},
+		{
+		"word" : "flogr-",
+		"translateFrom" : "sleep"
+		},
+		{
+		"word" : "flok",
+		"translateFrom" : "hair"
+		},
+		{
+		"word" : "flokolg?l-",
+		"translateFrom" : "give the creeps to,the creeps,creepy"
+		},
+		{
+		"word" : "fl?st",
+		"translateFrom" : "celebrate"
+		},
+		{
+		"word" : "fogl-",
+		"translateFrom" : "dig,excavate"
+		},
+		{
+		"word" : "fogl",
+		"translateFrom" : "spade"
+		},
+		{
+		"word" : "fol",
+		"translateFrom" : "whole"
+		},
+		{
+		"word" : "folok",
+		"translateFrom" : "hoard"
+		},
+		{
+		"word" : "folk-",
+		"translateFrom" : "hoard"
+		},
+		{
+		"word" : "forzunk",
+		"translateFrom" : "thorn"
+		},
+		{
+		"word" : "fosh?n",
+		"translateFrom" : "baby"
+		},
+		{
+		"word" : "fotak",
+		"translateFrom" : "fanaticism"
+		},
+		{
+		"word" : "fotk?rz",
+		"translateFrom" : "fanatical"
+		},
+		{
+		"word" : "foz",
+		"translateFrom" : "egg"
+		},
+		{
+		"word" : "fra",
+		"translateFrom" : "foot"
+		},
+		{
+		"word" : "fraat?rz",
+		"translateFrom" : "tired,weary"
+		},
+		{
+		"word" : "frang?z",
+		"translateFrom" : "syphilis"
+		},
+		{
+		"word" : "frapog",
+		"translateFrom" : "march"
+		},
+		{
+		"word" : "frau",
+		"translateFrom" : "pause"
+		},
+		{
+		"word" : "frau-",
+		"translateFrom" : "pause"
+		},
+		{
+		"word" : "fraut-",
+		"translateFrom" : "rest, sit down,chill"
+		},
+		{
+		"word" : "friib",
+		"translateFrom" : "bladder,blister"
+		},
+		{
+		"word" : "fr?ghat",
+		"translateFrom" : "swell"
+		},
+		{
+		"word" : "fr?m",
+		"translateFrom" : "mind,spirit"
+		},
+		{
+		"word" : "fr?shkul",
+		"translateFrom" : "bullwhip"
+		},
+		{
+		"word" : "fr?z",
+		"translateFrom" : "lazy,irresponsible"
+		},
+		{
+		"word" : "fulg-",
+		"translateFrom" : "to dwell"
+		},
+		{
+		"word" : "fulug",
+		"translateFrom" : "dwelling"
+		},
+		{
+		"word" : "fulak",
+		"translateFrom" : "damage"
+		},
+		{
+		"word" : "fulaknar",
+		"translateFrom" : "safe"
+		},
+		{
+		"word" : "fulk-",
+		"translateFrom" : "damage"
+		},
+		{
+		"word" : "furgh",
+		"translateFrom" : "front"
+		},
+		{
+		"word" : "furr",
+		"translateFrom" : "oven"
+		},
+		{
+		"word" : "furtun",
+		"translateFrom" : "storm"
+		},
+		{
+		"word" : "fukaush",
+		"translateFrom" : "dangerous"
+		},
+		{
+		"word" : "f?k?",
+		"translateFrom" : "neighbor"
+		},
+		{
+		"word" : "f?r-",
+		"translateFrom" : "lie"
+		},
+		{
+		"word" : "f?sh",
+		"translateFrom" : "slow"
+		},
+		{
+		"word" : "f?th-",
+		"translateFrom" : "awaken"
+		},
+		{
+		"word" : "f?th?rz",
+		"translateFrom" : "awake"
+		},
+		{
+		"word" : "gaab",
+		"translateFrom" : "distance,range"
+		},
+		{
+		"word" : "g?dhm-",
+		"translateFrom" : "be ugly,be nasty,be foul"
+		},
+		{
+		"word" : "g?dh?m?rz",
+		"translateFrom" : "foul"
+		},
+		{
+		"word" : "gaakh",
+		"translateFrom" : "let it be that,may it be that AN"
+		},
+		{
+		"word" : "gaam",
+		"translateFrom" : "disease,illness"
+		},
+		{
+		"word" : "g?mzhurm",
+		"translateFrom" : "cough"
+		},
+		{
+		"word" : "gaam?rz",
+		"translateFrom" : "sick"
+		},
+		{
+		"word" : "gaat",
+		"translateFrom" : "punishment"
+		},
+		{
+		"word" : "gaath",
+		"translateFrom" : "leaf of a tree, page,sheet of a scroll"
+		},
+		{
+		"word" : "gadhaal",
+		"translateFrom" : "promise"
+		},
+		{
+		"word" : "gadh?lug",
+		"translateFrom" : "promising"
+		},
+		{
+		"word" : "gadhl-",
+		"translateFrom" : "promise"
+		},
+		{
+		"word" : "g?dh?p",
+		"translateFrom" : "vulture"
+		},
+		{
+		"word" : "gad?d-",
+		"translateFrom" : "carve"
+		},
+		{
+		"word" : "gai-",
+		"translateFrom" : "chain"
+		},
+		{
+		"word" : "gaium",
+		"translateFrom" : "chain"
+		},
+		{
+		"word" : "gakh",
+		"translateFrom" : "three"
+		},
+		{
+		"word" : "gakh-",
+		"translateFrom" : "care"
+		},
+		{
+		"word" : "gal",
+		"translateFrom" : "ten"
+		},
+		{
+		"word" : "galin",
+		"translateFrom" : "crazy,mad"
+		},
+		{
+		"word" : "g?mum",
+		"translateFrom" : "illness,sickness,disease"
+		},
+		{
+		"word" : "gank",
+		"translateFrom" : "hook"
+		},
+		{
+		"word" : "garmadh",
+		"translateFrom" : "ruin"
+		},
+		{
+		"word" : "garmog",
+		"translateFrom" : "demand"
+		},
+		{
+		"word" : "garmog-",
+		"translateFrom" : "demand"
+		},
+		{
+		"word" : "garn",
+		"translateFrom" : "go on"
+		},
+		{
+		"word" : "garzog-",
+		"translateFrom" : "swing"
+		},
+		{
+		"word" : "gat",
+		"translateFrom" : "light,simple,easy"
+		},
+		{
+		"word" : "gathrok-",
+		"translateFrom" : "prepare"
+		},
+		{
+		"word" : "gabh?k",
+		"translateFrom" : "wine"
+		},
+		{
+		"word" : "gaz",
+		"translateFrom" : "small,little,short"
+		},
+		{
+		"word" : "gazat",
+		"translateFrom" : "dwarf,dwarves"
+		},
+		{
+		"word" : "gazog",
+		"translateFrom" : "wild"
+		},
+		{
+		"word" : "ghaamp",
+		"translateFrom" : "earth"
+		},
+		{
+		"word" : "ghaamul",
+		"translateFrom" : "down"
+		},
+		{
+		"word" : "ghaampronk",
+		"translateFrom" : "mine,cellar"
+		},
+		{
+		"word" : "ghaansh",
+		"translateFrom" : "East"
+		},
+		{
+		"word" : "ghaash",
+		"translateFrom" : "fire"
+		},
+		{
+		"word" : "ghaash-",
+		"translateFrom" : "burn"
+		},
+		{
+		"word" : "ghaashug",
+		"translateFrom" : "flaming,burning"
+		},
+		{
+		"word" : "ghaashum",
+		"translateFrom" : "heat"
+		},
+		{
+		"word" : "ghashan",
+		"translateFrom" : "word,command"
+		},
+		{
+		"word" : "ghashanum",
+		"translateFrom" : "dictionary"
+		},
+		{
+		"word" : "ghashanuz",
+		"translateFrom" : "story,tale"
+		},
+		{
+		"word" : "ghashdurb-",
+		"translateFrom" : "swear"
+		},
+		{
+		"word" : "ghashkrum",
+		"translateFrom" : "answer"
+		},
+		{
+		"word" : "ghashkrut-",
+		"translateFrom" : "answer"
+		},
+		{
+		"word" : "ghashn-",
+		"translateFrom" : "tell,command,say"
+		},
+		{
+		"word" : "ghashnum",
+		"translateFrom" : "speech"
+		},
+		{
+		"word" : "ghaur-",
+		"translateFrom" : "roast"
+		},
+		{
+		"word" : "ghug",
+		"translateFrom" : "likely,presumably"
+		},
+		{
+		"word" : "ghugsh",
+		"translateFrom" : "event"
+		},
+		{
+		"word" : "gh?d",
+		"translateFrom" : "weed"
+		},
+		{
+		"word" : "gh?k",
+		"translateFrom" : "complete,entire"
+		},
+		{
+		"word" : "gh?karz",
+		"translateFrom" : "completely"
+		},
+		{
+		"word" : "gh?lb-",
+		"translateFrom" : "help"
+		},
+		{
+		"word" : "gh?lum",
+		"translateFrom" : "aid,help"
+		},
+		{
+		"word" : "ghung",
+		"translateFrom" : "if"
+		},
+		{
+		"word" : "ghru",
+		"translateFrom" : "stick,club,pole,erect penis,boner,penis,big penis"
+		},
+		{
+		"word" : "ghurn",
+		"translateFrom" : "well"
+		},
+		{
+		"word" : "g?l",
+		"translateFrom" : "meal time,wraith"
+		},
+		{
+		"word" : "g?mog",
+		"translateFrom" : "groan"
+		},
+		{
+		"word" : "g?mog-",
+		"translateFrom" : "groan"
+		},
+		{
+		"word" : "g?mtog-",
+		"translateFrom" : "main"
+		},
+		{
+		"word" : "g?rak?n",
+		"translateFrom" : "falcon,hawk"
+		},
+		{
+		"word" : "g?rdan",
+		"translateFrom" : "necklace"
+		},
+		{
+		"word" : "g?th",
+		"translateFrom" : "verdure,greenery,lush,bountifull"
+		},
+		{
+		"word" : "gilrol",
+		"translateFrom" : "ordinary"
+		},
+		{
+		"word" : "gimb-",
+		"translateFrom" : "find"
+		},
+		{
+		"word" : "gimbakl-",
+		"translateFrom" : "expect"
+		},
+		{
+		"word" : "gimub",
+		"translateFrom" : "discovery,the thing found"
+		},
+		{
+		"word" : "gimbuga",
+		"translateFrom" : "found participle"
+		},
+		{
+		"word" : "gl?d",
+		"translateFrom" : "meter,cm,mm,km,milimeter,centimeter,kilometer,mile"
+		},
+		{
+		"word" : "glat",
+		"translateFrom" : "instrument,tool,machine"
+		},
+		{
+		"word" : "glim-",
+		"translateFrom" : "wrestle"
+		},
+		{
+		"word" : "glob",
+		"translateFrom" : "filth,fool)"
+		},
+		{
+		"word" : "glob-",
+		"translateFrom" : "to fool someone"
+		},
+		{
+		"word" : "globlob",
+		"translateFrom" : "female fool"
+		},
+		{
+		"word" : "glob?rz",
+		"translateFrom" : "filthy,foolish"
+		},
+		{
+		"word" : "glok",
+		"translateFrom" : "tooth"
+		},
+		{
+		"word" : "glok-",
+		"translateFrom" : "bite"
+		},
+		{
+		"word" : "glu",
+		"translateFrom" : "piss,poison,brackish water"
+		},
+		{
+		"word" : "glu-",
+		"translateFrom" : "piss"
+		},
+		{
+		"word" : "glup",
+		"translateFrom" : "nose"
+		},
+		{
+		"word" : "gog?n",
+		"translateFrom" : "broad,wide,extensive"
+		},
+		{
+		"word" : "goi",
+		"translateFrom" : "city"
+		},
+		{
+		"word" : "gokut",
+		"translateFrom" : "flat"
+		},
+		{
+		"word" : "golb",
+		"translateFrom" : "warning,danger,risk"
+		},
+		{
+		"word" : "Golfimbul",
+		"translateFrom" : "leader of orcs of Mount Gram,slain at Greenfields name TH"
+		},
+		{
+		"word" : "golm",
+		"translateFrom" : "offer"
+		},
+		{
+		"word" : "golm-",
+		"translateFrom" : "offer"
+		},
+		{
+		"word" : "golnauk",
+		"translateFrom" : "steel"
+		},
+		{
+		"word" : "Golug",
+		"translateFrom" : "elf,elves"
+		},
+		{
+		"word" : "gon-",
+		"translateFrom" : "stare"
+		},
+		{
+		"word" : "gor",
+		"translateFrom" : "work,job"
+		},
+		{
+		"word" : "gorosh",
+		"translateFrom" : "right side"
+		},
+		{
+		"word" : "gortag",
+		"translateFrom" : "madman"
+		},
+		{
+		"word" : "gor?rz",
+		"translateFrom" : "tough"
+		},
+		{
+		"word" : "Gorbag",
+		"translateFrom" : "an orc-leader of Minas Morgul,killed by Shagrat name LOTR III"
+		},
+		{
+		"word" : "gorgulb-",
+		"translateFrom" : "use,utilize,employ"
+		},
+		{
+		"word" : "goth",
+		"translateFrom" : "lord,master,enemy"
+		},
+		{
+		"word" : "gothlob",
+		"translateFrom" : "Queen"
+		},
+		{
+		"word" : "glothrok!",
+		"translateFrom" : "go on"
+		},
+		{
+		"word" : "Gothmog",
+		"translateFrom" : "goth"
+		},
+		{
+		"word" : "goth?rz",
+		"translateFrom" : "powerful"
+		},
+		{
+		"word" : "gotl-",
+		"translateFrom" : "forgive"
+		},
+		{
+		"word" : "gozad",
+		"translateFrom" : "nail"
+		},
+		{
+		"word" : "grak",
+		"translateFrom" : "trap,pitfall"
+		},
+		{
+		"word" : "grat",
+		"translateFrom" : "chief"
+		},
+		{
+		"word" : "grat-",
+		"translateFrom" : "intend"
+		},
+		{
+		"word" : "gratum",
+		"translateFrom" : "plan,intention"
+		},
+		{
+		"word" : "grat?rz",
+		"translateFrom" : "useful"
+		},
+		{
+		"word" : "graug",
+		"translateFrom" : "flock"
+		},
+		{
+		"word" : "graur-",
+		"translateFrom" : "touch"
+		},
+		{
+		"word" : "graus",
+		"translateFrom" : "toe"
+		},
+		{
+		"word" : "graz",
+		"translateFrom" : "cool,cold"
+		},
+		{
+		"word" : "grazadh-",
+		"translateFrom" : "decay,degenerate,rot"
+		},
+		{
+		"word" : "grish",
+		"translateFrom" : "blood"
+		},
+		{
+		"word" : "grish-",
+		"translateFrom" : "bleed"
+		},
+		{
+		"word" : "grish?rz",
+		"translateFrom" : "bloody"
+		},
+		{
+		"word" : "gropor",
+		"translateFrom" : "valley"
+		},
+		{
+		"word" : "grosh",
+		"translateFrom" : "bean"
+		},
+		{
+		"word" : "groth",
+		"translateFrom" : "grey"
+		},
+		{
+		"word" : "groll",
+		"translateFrom" : "quarry"
+		},
+		{
+		"word" : "gru",
+		"translateFrom" : "brown,woman"
+		},
+		{
+		"word" : "grugulum",
+		"translateFrom" : "dress"
+		},
+		{
+		"word" : "grumbull",
+		"translateFrom" : "high,elevated,tall,lofty"
+		},
+		{
+		"word" : "gr?mbull",
+		"translateFrom" : "store"
+		},
+		{
+		"word" : "grush-",
+		"translateFrom" : "hit,strike,punch"
+		},
+		{
+		"word" : "g?g",
+		"translateFrom" : "chance,past"
+		},
+		{
+		"word" : "gugsh",
+		"translateFrom" : "event,occurrence,happening"
+		},
+		{
+		"word" : "gukh",
+		"translateFrom" : "down"
+		},
+		{
+		"word" : "gull-",
+		"translateFrom" : "soak"
+		},
+		{
+		"word" : "gund",
+		"translateFrom" : "stone"
+		},
+		{
+		"word" : "gund-",
+		"translateFrom" : "stand"
+		},
+		{
+		"word" : "gundat-ir",
+		"translateFrom" : "insist"
+		},
+		{
+		"word" : "gundul",
+		"translateFrom" : "guard"
+		},
+		{
+		"word" : "gundul-",
+		"translateFrom" : "guard"
+		},
+		{
+		"word" : "gundum",
+		"translateFrom" : "stand"
+		},
+		{
+		"word" : "g?k-",
+		"translateFrom" : "pour,fill"
+		},
+		{
+		"word" : "g?kh",
+		"translateFrom" : "quite,completely"
+		},
+		{
+		"word" : "g?kr-",
+		"translateFrom" : "close,block,jam"
+		},
+		{
+		"word" : "g?kr?rz",
+		"translateFrom" : "shut,closed"
+		},
+		{
+		"word" : "gur",
+		"translateFrom" : "cheese"
+		},
+		{
+		"word" : "g?r-",
+		"translateFrom" : "shake,agitate,tremble,quake,quiver,vibrate"
+		},
+		{
+		"word" : "gus",
+		"translateFrom" : "about,regarding,concerning"
+		},
+		{
+		"word" : "hag",
+		"translateFrom" : "unpleasant man"
+		},
+		{
+		"word" : "haglob",
+		"translateFrom" : "unpleasant female"
+		},
+		{
+		"word" : "hanrun",
+		"translateFrom" : "spy"
+		},
+		{
+		"word" : "harna",
+		"translateFrom" : "bonfire"
+		},
+		{
+		"word" : "has-",
+		"translateFrom" : "beg,plead"
+		},
+		{
+		"word" : "hasum",
+		"translateFrom" : "plea"
+		},
+		{
+		"word" : "hau",
+		"translateFrom" : "beggar"
+		},
+		{
+		"word" : "haz",
+		"translateFrom" : "dependent"
+		},
+		{
+		"word" : "hiil-",
+		"translateFrom" : "follow"
+		},
+		{
+		"word" : "hiis",
+		"translateFrom" : "quick,fast"
+		},
+		{
+		"word" : "hiisarz",
+		"translateFrom" : "quickly"
+		},
+		{
+		"word" : "hiisht",
+		"translateFrom" : "ash"
+		},
+		{
+		"word" : "hiist-",
+		"translateFrom" : "send"
+		},
+		{
+		"word" : "hin",
+		"translateFrom" : "any"
+		},
+		{
+		"word" : "hlu-",
+		"translateFrom" : "sew,stitch,connect with thread rope"
+		},
+		{
+		"word" : "hluth",
+		"translateFrom" : "flag,banner,ensign"
+		},
+		{
+		"word" : "hokarul",
+		"translateFrom" : "laugh,laughter"
+		},
+		{
+		"word" : "hokarl-",
+		"translateFrom" : "laugh"
+		},
+		{
+		"word" : "hon-",
+		"translateFrom" : "watch,see,look at"
+		},
+		{
+		"word" : "hont",
+		"translateFrom" : "eye"
+		},
+		{
+		"word" : "hontum",
+		"translateFrom" : "glance,look"
+		},
+		{
+		"word" : "horm",
+		"translateFrom" : "serious"
+		},
+		{
+		"word" : "horn",
+		"translateFrom" : "beast,animal"
+		},
+		{
+		"word" : "hornfik",
+		"translateFrom" : "monster"
+		},
+		{
+		"word" : "horngaz",
+		"translateFrom" : "pet,tame animal"
+		},
+		{
+		"word" : "horngoth",
+		"translateFrom" : "cowboy"
+		},
+		{
+		"word" : "hosh",
+		"translateFrom" : "guts,intestines,viscera"
+		},
+		{
+		"word" : "hru",
+		"translateFrom" : "fertile"
+		},
+		{
+		"word" : "htol-",
+		"translateFrom" : "have sex with"
+		},
+		{
+		"word" : "hul-",
+		"translateFrom" : "flow"
+		},
+		{
+		"word" : "hul",
+		"translateFrom" : "flow,drain"
+		},
+		{
+		"word" : "h?n",
+		"translateFrom" : "heart"
+		},
+		{
+		"word" : "h?r",
+		"translateFrom" : "courage,bravery"
+		},
+		{
+		"word" : "h?r-",
+		"translateFrom" : "dare"
+		},
+		{
+		"word" : "h?r?rz",
+		"translateFrom" : "brave"
+		},
+		{
+		"word" : "hush",
+		"translateFrom" : "doubt,uncertainty,opinion"
+		},
+		{
+		"word" : "in-",
+		"translateFrom" : "remember"
+		},
+		{
+		"word" : "iist-",
+		"translateFrom" : "know"
+		},
+		{
+		"word" : "iistash-",
+		"translateFrom" : "inform"
+		},
+		{
+		"word" : "iistum",
+		"translateFrom" : "information"
+		},
+		{
+		"word" : "iis-",
+		"translateFrom" : "begin"
+		},
+		{
+		"word" : "-ik",
+		"translateFrom" : "before prep,before,prep"
+		},
+		{
+		"word" : "ikh-",
+		"translateFrom" : "force"
+		},
+		{
+		"word" : "ikh?rz",
+		"translateFrom" : "forceful"
+		},
+		{
+		"word" : "ilz",
+		"translateFrom" : "star"
+		},
+		{
+		"word" : "ilzkaal",
+		"translateFrom" : "starlight"
+		},
+		{
+		"word" : "-ir",
+		"translateFrom" : "on prep"
+		},
+		{
+		"word" : "irz-",
+		"translateFrom" : "run"
+		},
+		{
+		"word" : "ish",
+		"translateFrom" : "enemy"
+		},
+		{
+		"word" : "isl",
+		"translateFrom" : "plant"
+		},
+		{
+		"word" : "isl-",
+		"translateFrom" : "plant,cultivate"
+		},
+		{
+		"word" : "-it",
+		"translateFrom" : "behind prep"
+		},
+		{
+		"word" : "-izg",
+		"translateFrom" : "I"
+		},
+		{
+		"word" : "-izish",
+		"translateFrom" : "me"
+		},
+		{
+		"word" : "-izishu",
+		"translateFrom" : "us"
+		},
+		{
+		"word" : "-izub",
+		"translateFrom" : "my"
+		},
+		{
+		"word" : "-izubu",
+		"translateFrom" : "ours"
+		},
+		{
+		"word" : "kaal",
+		"translateFrom" : "light"
+		},
+		{
+		"word" : "kaal-",
+		"translateFrom" : "light"
+		},
+		{
+		"word" : "kaam",
+		"translateFrom" : "bed"
+		},
+		{
+		"word" : "kaan-",
+		"translateFrom" : "trust"
+		},
+		{
+		"word" : "kaar",
+		"translateFrom" : "head"
+		},
+		{
+		"word" : "kaasak",
+		"translateFrom" : "bait"
+		},
+		{
+		"word" : "kaat",
+		"translateFrom" : "lie"
+		},
+		{
+		"word" : "kabor",
+		"translateFrom" : "precept"
+		},
+		{
+		"word" : "kafaaz",
+		"translateFrom" : "cage"
+		},
+		{
+		"word" : "kafsog",
+		"translateFrom" : "important"
+		},
+		{
+		"word" : "kakok",
+		"translateFrom" : "bellows"
+		},
+		{
+		"word" : "kala",
+		"translateFrom" : "castle,fortress,stronghold"
+		},
+		{
+		"word" : "kalaum",
+		"translateFrom" : "archery"
+		},
+		{
+		"word" : "kalus",
+		"translateFrom" : "archer"
+		},
+		{
+		"word" : "karn",
+		"translateFrom" : "red"
+		},
+		{
+		"word" : "kau",
+		"translateFrom" : "against prep"
+		},
+		{
+		"word" : "kaushar",
+		"translateFrom" : "ceremony"
+		},
+		{
+		"word" : "khak",
+		"translateFrom" : "coffee"
+		},
+		{
+		"word" : "khat?n",
+		"translateFrom" : "intelligence"
+		},
+		{
+		"word" : "khat?rz",
+		"translateFrom" : "intelligent,shrewd"
+		},
+		{
+		"word" : "khl-",
+		"translateFrom" : "ask"
+		},
+		{
+		"word" : "khlaar-",
+		"translateFrom" : "hear"
+		},
+		{
+		"word" : "khlaarum",
+		"translateFrom" : "sound"
+		},
+		{
+		"word" : "khlaat",
+		"translateFrom" : "ear"
+		},
+		{
+		"word" : "khlark-",
+		"translateFrom" : "make noise"
+		},
+		{
+		"word" : "kh?r-",
+		"translateFrom" : "rip,tear"
+		},
+		{
+		"word" : "kol",
+		"translateFrom" : "carry"
+		},
+		{
+		"word" : "kolauz",
+		"translateFrom" : "cell"
+		},
+		{
+		"word" : "koth",
+		"translateFrom" : "claw"
+		},
+		{
+		"word" : "koz-",
+		"translateFrom" : "hear"
+		},
+		{
+		"word" : "krak",
+		"translateFrom" : "five"
+		},
+		{
+		"word" : "kraash",
+		"translateFrom" : "part"
+		},
+		{
+		"word" : "kraat",
+		"translateFrom" : "away"
+		},
+		{
+		"word" : "krai-",
+		"translateFrom" : "feel"
+		},
+		{
+		"word" : "kraibag",
+		"translateFrom" : "sad"
+		},
+		{
+		"word" : "kramp-",
+		"translateFrom" : "do"
+		},
+		{
+		"word" : "krampum",
+		"translateFrom" : "duty,task,chore"
+		},
+		{
+		"word" : "kramp?rz",
+		"translateFrom" : "loyal"
+		},
+		{
+		"word" : "krank",
+		"translateFrom" : "father"
+		},
+		{
+		"word" : "krank-",
+		"translateFrom" : "father"
+		},
+		{
+		"word" : "kranklob",
+		"translateFrom" : "mother"
+		},
+		{
+		"word" : "krankl?b",
+		"translateFrom" : "sister"
+		},
+		{
+		"word" : "krankl?k",
+		"translateFrom" : "brother"
+		},
+		{
+		"word" : "kraur",
+		"translateFrom" : "body"
+		},
+		{
+		"word" : "krimp",
+		"translateFrom" : "rope"
+		},
+		{
+		"word" : "krimp-",
+		"translateFrom" : "bind"
+		},
+		{
+		"word" : "krimpash",
+		"translateFrom" : "monograph"
+		},
+		{
+		"word" : "krimpum",
+		"translateFrom" : "tie"
+		},
+		{
+		"word" : "krith",
+		"translateFrom" : "nine"
+		},
+		{
+		"word" : "kr?klak",
+		"translateFrom" : "crossbow"
+		},
+		{
+		"word" : "krul",
+		"translateFrom" : "two"
+		},
+		{
+		"word" : "krum",
+		"translateFrom" : "back"
+		},
+		{
+		"word" : "k?hom",
+		"translateFrom" : "example"
+		},
+		{
+		"word" : "krumnaakh",
+		"translateFrom" : "clumsy"
+		},
+		{
+		"word" : "-krut",
+		"translateFrom" : "back"
+		},
+		{
+		"word" : "k?",
+		"translateFrom" : "old,long time,ancient"
+		},
+		{
+		"word" : "k?f",
+		"translateFrom" : "ugly"
+		},
+		{
+		"word" : "kul-",
+		"translateFrom" : "to be,is"
+		},
+		{
+		"word" : "kumon",
+		"translateFrom" : "bell"
+		},
+		{
+		"word" : "kun-",
+		"translateFrom" : "bend"
+		},
+		{
+		"word" : "kunum",
+		"translateFrom" : "bend"
+		},
+		{
+		"word" : "kur",
+		"translateFrom" : "ball"
+		},
+		{
+		"word" : "kruf",
+		"translateFrom" : "prostitute"
+		},
+		{
+		"word" : "kruf-",
+		"translateFrom" : "prostitute oneself,prostitue,whore yourself,give yourself"
+		},
+		{
+		"word" : "kr?f-",
+		"translateFrom" : "rub,file,annoy"
+		},
+		{
+		"word" : "kr?r",
+		"translateFrom" : "finger"
+		},
+		{
+		"word" : "kul?k",
+		"translateFrom" : "anything,all things"
+		},
+		{
+		"word" : "kurn",
+		"translateFrom" : "around"
+		},
+		{
+		"word" : "kusn",
+		"translateFrom" : "while"
+		},
+		{
+		"word" : "k?totaz",
+		"translateFrom" : "citadel"
+		},
+		{
+		"word" : "k?z-",
+		"translateFrom" : "reckon"
+		},
+		{
+		"word" : "-la",
+		"translateFrom" : "after prep"
+		},
+		{
+		"word" : "laam",
+		"translateFrom" : "tongue,language"
+		},
+		{
+		"word" : "lak",
+		"translateFrom" : "misunderstanding"
+		},
+		{
+		"word" : "lam",
+		"translateFrom" : "arena"
+		},
+		{
+		"word" : "lapus",
+		"translateFrom" : "lead,metal"
+		},
+		{
+		"word" : "larg-",
+		"translateFrom" : "make"
+		},
+		{
+		"word" : "l?rz",
+		"translateFrom" : "important"
+		},
+		{
+		"word" : "l?z",
+		"translateFrom" : "cover"
+		},
+		{
+		"word" : "l?z-",
+		"translateFrom" : "cover"
+		},
+		{
+		"word" : "laazg",
+		"translateFrom" : "shield"
+		},
+		{
+		"word" : "-lab",
+		"translateFrom" : "your,yours
+		},
+		{
+		"word" : "lag-",
+		"translateFrom" : "to break"
+		},
+		{
+		"word" : "lagl",
+		"translateFrom" : "pocket,sag,bag"
+		},
+		{
+		"word" : "lag?rz",
+		"translateFrom" : "broken"
+		},
+		{
+		"word" : "lat",
+		"translateFrom" : "you"
+		},
+		{
+		"word" : "lata-",
+		"translateFrom" : "under prep"
+		},
+		{
+		"word" : "lataan",
+		"translateFrom" : "South"
+		},
+		{
+		"word" : "liik",
+		"translateFrom" : "candle"
+		},
+		{
+		"word" : "lik",
+		"translateFrom" : "barrel,cask"
+		},
+		{
+		"word" : "lob?rz",
+		"translateFrom" : "feminine,womanly,effeminate,girly"
+		},
+		{
+		"word" : "logon",
+		"translateFrom" : "bowl,tub"
+		},
+		{
+		"word" : "loik",
+		"translateFrom" : "corpse"
+		},
+		{
+		"word" : "lor?z",
+		"translateFrom" : "several"
+		},
+		{
+		"word" : "lorz",
+		"translateFrom" : "stupid"
+		},
+		{
+		"word" : "lozudurkh",
+		"translateFrom" : "at last,finally"
+		},
+		{
+		"word" : "lug",
+		"translateFrom" : "tower"
+		},
+		{
+		"word" : "l?b",
+		"translateFrom" : "daughter"
+		},
+		{
+		"word" : "l?k",
+		"translateFrom" : "son"
+		},
+		{
+		"word" : "l?l",
+		"translateFrom" : "flower"
+		},
+		{
+		"word" : "l?mp-",
+		"translateFrom" : "to fall"
+		},
+		{
+		"word" : "l?nt",
+		"translateFrom" : "boat"
+		},
+		{
+		"word" : "l?p-",
+		"translateFrom" : "ask for,pray"
+		},
+		{
+		"word" : "l?r",
+		"translateFrom" : "gold"
+		},
+		{
+		"word" : "l?rkh",
+		"translateFrom" : "ornament,pattern,decoration"
+		},
+		{
+		"word" : "l?r?rz",
+		"translateFrom" : "golden"
+		},
+		{
+		"word" : "-l?t",
+		"translateFrom" : "out"
+		},
+		{
+		"word" : "l?tom-",
+		"translateFrom" : "plead"
+		},
+		{
+		"word" : "mal",
+		"translateFrom" : "whats up,what's up,whazzup"
+		},
+		{
+		"word" : "m?dr-",
+		"translateFrom" : "free,to let go"
+		},
+		{
+		"word" : "m?d?r",
+		"translateFrom" : "freedom,liberty"
+		},
+		{
+		"word" : "m?d?rz",
+		"translateFrom" : "free"
+		},
+		{
+		"word" : "maal",
+		"translateFrom" : "yellow"
+		},
+		{
+		"word" : "maamar",
+		"translateFrom" : "best"
+		},
+		{
+		"word" : "maaz",
+		"translateFrom" : "better"
+		},
+		{
+		"word" : "maarubh",
+		"translateFrom" : "law"
+		},
+		{
+		"word" : "maarbh-",
+		"translateFrom" : "to make a law a rule,to levy a ransom,tax,tribute"
+		},
+		{
+		"word" : "m?sl",
+		"translateFrom" : "neck"
+		},
+		{
+		"word" : "maath",
+		"translateFrom" : "sweet"
+		},
+		{
+		"word" : "maatharz",
+		"translateFrom" : "sweetly"
+		},
+		{
+		"word" : "maathum",
+		"translateFrom" : "honey"
+		},
+		{
+		"word" : "mat-",
+		"translateFrom" : "die"
+		},
+		{
+		"word" : "mat",
+		"translateFrom" : "most likely dead"
+		},
+		{
+		"word" : "matnar",
+		"translateFrom" : "most likely not dead"
+		},
+		{
+		"word" : "matuga",
+		"translateFrom" : "dying participle"
+		},
+		{
+		"word" : "matum",
+		"translateFrom" : "death"
+		},
+		{
+		"word" : "mat?rz",
+		"translateFrom" : "mortal,dead"
+		},
+		{
+		"word" : "mazl",
+		"translateFrom" : "point,destination,target"
+		},
+		{
+		"word" : "mau",
+		"translateFrom" : "warrior"
+		},
+		{
+		"word" : "maub?r",
+		"translateFrom" : "orc company of 100 soldiers, led by sergeant,platoon,battalion,army"
+		},
+		{
+		"word" : "maudh?l",
+		"translateFrom" : "camp,bivouac"
+		},
+		{
+		"word" : "maufulug",
+		"translateFrom" : "barracks"
+		},
+		{
+		"word" : "Maugoth",
+		"translateFrom" : "General"
+		},
+		{
+		"word" : "mauk-",
+		"translateFrom" : "fight"
+		},
+		{
+		"word" : "maukum",
+		"translateFrom" : "fight,fistfight, umble"
+		},
+		{
+		"word" : "mauk?rz",
+		"translateFrom" : "scrappy,prone to fight"
+		},
+		{
+		"word" : "maushflokh",
+		"translateFrom" : "ink"
+		},
+		{
+		"word" : "Mautor",
+		"translateFrom" : "Lieutenant"
+		},
+		{
+		"word" : "mazauk",
+		"translateFrom" : "war"
+		},
+		{
+		"word" : "mazauk-",
+		"translateFrom" : "make war,declare war"
+		},
+		{
+		"word" : "mbursh",
+		"translateFrom" : "fit,match"
+		},
+		{
+		"word" : "mi",
+		"translateFrom" : "cat"
+		},
+		{
+		"word" : "mirz",
+		"translateFrom" : "who"
+		},
+		{
+		"word" : "mirzob",
+		"translateFrom" : "whose"
+		},
+		{
+		"word" : "mog",
+		"translateFrom" : "voice"
+		},
+		{
+		"word" : "mok-",
+		"translateFrom" : "hate"
+		},
+		{
+		"word" : "mokh",
+		"translateFrom" : "home"
+		},
+		{
+		"word" : "mokum",
+		"translateFrom" : "hatred"
+		},
+		{
+		"word" : "mok?rz",
+		"translateFrom" : "hateful"
+		},
+		{
+		"word" : "mol",
+		"translateFrom" : "how"
+		},
+		{
+		"word" : "molk?",
+		"translateFrom" : "however"
+		},
+		{
+		"word" : "mor",
+		"translateFrom" : "black"
+		},
+		{
+		"word" : "mor?rz",
+		"translateFrom" : "hard"
+		},
+		{
+		"word" : "mos",
+		"translateFrom" : "center"
+		},
+		{
+		"word" : "motsham",
+		"translateFrom" : "antique,ancient"
+		},
+		{
+		"word" : "moz",
+		"translateFrom" : "wind,fart"
+		},
+		{
+		"word" : "mudhun",
+		"translateFrom" : "worry"
+		},
+		{
+		"word" : "mudhn-",
+		"translateFrom" : "worry,trouble"
+		},
+		{
+		"word" : "m?dku",
+		"translateFrom" : "sometimes"
+		},
+		{
+		"word" : "mugsh",
+		"translateFrom" : "dough,paste,vomit"
+		},
+		{
+		"word" : "mukh",
+		"translateFrom" : "when"
+		},
+		{
+		"word" : "mum-",
+		"translateFrom" : "mar,mark"
+		},
+		{
+		"word" : "mupsh",
+		"translateFrom" : "some"
+		},
+		{
+		"word" : "mur",
+		"translateFrom" : "room,door"
+		},
+		{
+		"word" : "mur?k",
+		"translateFrom" : "bear"
+		},
+		{
+		"word" : "mush",
+		"translateFrom" : "nearly"
+		},
+		{
+		"word" : "mut",
+		"translateFrom" : "which"
+		},
+		{
+		"word" : "m?k",
+		"translateFrom" : "gentle"
+		},
+		{
+		"word" : "m?karz",
+		"translateFrom" : "gently"
+		},
+		{
+		"word" : "m?l",
+		"translateFrom" : "road"
+		},
+		{
+		"word" : "m?z",
+		"translateFrom" : "bread"
+		},
+		{
+		"word" : "muz?rz",
+		"translateFrom" : "hot"
+		},
+		{
+		"word" : "naadar",
+		"translateFrom" : "among prep"
+		},
+		{
+		"word" : "naakh",
+		"translateFrom" : "hand"
+		},
+		{
+		"word" : "naakhum",
+		"translateFrom" : "greed"
+		},
+		{
+		"word" : "naakh?rz",
+		"translateFrom" : "greedy"
+		},
+		{
+		"word" : "naal-",
+		"translateFrom" : "complain"
+		},
+		{
+		"word" : "naan",
+		"translateFrom" : "but,although"
+		},
+		{
+		"word" : "naga",
+		"translateFrom" : "other"
+		},
+		{
+		"word" : "nalm?d-",
+		"translateFrom" : "slip,lose"
+		},
+		{
+		"word" : "nalm?d?rz",
+		"translateFrom" : "loose"
+		},
+		{
+		"word" : "nanulg",
+		"translateFrom" : "alternative,otherwise"
+		},
+		{
+		"word" : "nar",
+		"translateFrom" : "contempt"
+		},
+		{
+		"word" : "narash",
+		"translateFrom" : "nothing"
+		},
+		{
+		"word" : "narbai",
+		"translateFrom" : "safety"
+		},
+		{
+		"word" : "nardur",
+		"translateFrom" : "small"
+		},
+		{
+		"word" : "narfik",
+		"translateFrom" : "not bad"
+		},
+		{
+		"word" : "narghaash",
+		"translateFrom" : "cold"
+		},
+		{
+		"word" : "nargzab-",
+		"translateFrom" : "need,want"
+		},
+		{
+		"word" : "nariin-",
+		"translateFrom" : "forget"
+		},
+		{
+		"word" : "narish",
+		"translateFrom" : "ally,allies"
+		},
+		{
+		"word" : "narkramp-",
+		"translateFrom" : "refuse"
+		},
+		{
+		"word" : "nark?",
+		"translateFrom" : "never"
+		},
+		{
+		"word" : "narmok-",
+		"translateFrom" : "like"
+		},
+		{
+		"word" : "narn?lubat",
+		"translateFrom" : "thanks,thank you,thank"
+		},
+		{
+		"word" : "nartul",
+		"translateFrom" : "not here,absent"
+		},
+		{
+		"word" : "nartum",
+		"translateFrom" : "absence"
+		},
+		{
+		"word" : "nau",
+		"translateFrom" : "end"
+		},
+		{
+		"word" : "naur",
+		"translateFrom" : "werewolf"
+		},
+		{
+		"word" : "naz-",
+		"translateFrom" : "spin"
+		},
+		{
+		"word" : "nazg",
+		"translateFrom" : "ring"
+		},
+		{
+		"word" : "Nazg?l",
+		"translateFrom" : "Ring-wraith"
+		},
+		{
+		"word" : "nazt-",
+		"translateFrom" : "sting"
+		},
+		{
+		"word" : "nazt",
+		"translateFrom" : "sting"
+		},
+		{
+		"word" : "niin",
+		"translateFrom" : "water"
+		},
+		{
+		"word" : "nink",
+		"translateFrom" : "white"
+		},
+		{
+		"word" : "nokh",
+		"translateFrom" : "once"
+		},
+		{
+		"word" : "nork-",
+		"translateFrom" : "take"
+		},
+		{
+		"word" : "n?khud",
+		"translateFrom" : "next"
+		},
+		{
+		"word" : "n?l",
+		"translateFrom" : "pain"
+		},
+		{
+		"word" : "n?l-",
+		"translateFrom" : "hurt,injure,defend"
+		},
+		{
+		"word" : "n?lum",
+		"translateFrom" : "injury"
+		},
+		{
+		"word" : "n?m-",
+		"translateFrom" : "mean,signify"
+		},
+		{
+		"word" : "ln?rl-",
+		"translateFrom" : "learn"
+		},
+		{
+		"word" : "n?rz",
+		"translateFrom" : "hostile,angry"
+		},
+		{
+		"word" : "n?rzum",
+		"translateFrom" : "anger, wrath"
+		},
+		{
+		"word" : "n?st",
+		"translateFrom" : "beget"
+		},
+		{
+		"word" : "n?t",
+		"translateFrom" : "sky"
+		},
+		{
+		"word" : "nur",
+		"translateFrom" : "relation,kin to,family"
+		},
+		{
+		"word" : "ogh",
+		"translateFrom" : "way"
+		},
+		{
+		"word" : "oghor",
+		"translateFrom" : "name"
+		},
+		{
+		"word" : "ogh?k",
+		"translateFrom" : "all the way back"
+		},
+		{
+		"word" : "olk?rz",
+		"translateFrom" : "body"
+		},
+		{
+		"word" : "oloz",
+		"translateFrom" : "usual"
+		},
+		{
+		"word" : "-ord",
+		"translateFrom" : "forward"
+		},
+		{
+		"word" : "orsk-",
+		"translateFrom" : "steal"
+		},
+		{
+		"word" : "oshadh?r",
+		"translateFrom" : "another"
+		},
+		{
+		"word" : "oz?t,",
+		"translateFrom" : "seem,appear"
+		},
+		{
+		"word" : "paak",
+		"translateFrom" : "picture,image"
+		},
+		{
+		"word" : "par",
+		"translateFrom" : "vessel"
+		},
+		{
+		"word" : "parz",
+		"translateFrom" : "unit of measure,volume"
+		},
+		{
+		"word" : "paash-",
+		"translateFrom" : "is able to,can"
+		},
+		{
+		"word" : "paashnar",
+		"translateFrom" : "cannot"
+		},
+		{
+		"word" : "paashum",
+		"translateFrom" : "ability"
+		},
+		{
+		"word" : "piil",
+		"translateFrom" : "arrow"
+		},
+		{
+		"word" : "piilak",
+		"translateFrom" : "cover,lid,top"
+		},
+		{
+		"word" : "pilik",
+		"translateFrom" : "axe"
+		},
+		{
+		"word" : "piz",
+		"translateFrom" : "arm"
+		},
+		{
+		"word" : "piz-",
+		"translateFrom" : "arm"
+		},
+		{
+		"word" : "pizb?r",
+		"translateFrom" : "sergeant"
+		},
+		{
+		"word" : "pizdur",
+		"translateFrom" : "Captain"
+		},
+		{
+		"word" : "pizgal",
+		"translateFrom" : "corporal"
+		},
+		{
+		"word" : "piztor",
+		"translateFrom" : "army"
+		},
+		{
+		"word" : "pizumu",
+		"translateFrom" : "arms"
+		},
+		{
+		"word" : "pizurk",
+		"translateFrom" : "soldier,private"
+		},
+		{
+		"word" : "ponii-",
+		"translateFrom" : "detest,despise,loathe"
+		},
+		{
+		"word" : "prakh-",
+		"translateFrom" : "lure"
+		},
+		{
+		"word" : "prakhum",
+		"translateFrom" : "inclination,fancy,crush"
+		},
+		{
+		"word" : "prak?th",
+		"translateFrom" : "ambush"
+		},
+		{
+		"word" : "praush-",
+		"translateFrom" : "exchange"
+		},
+		{
+		"word" : "pu",
+		"translateFrom" : "mouth"
+		},
+		{
+		"word" : "pugh",
+		"translateFrom" : "arse"
+		},
+		{
+		"word" : "pukhal",
+		"translateFrom" : "language"
+		},
+		{
+		"word" : "pukhl-",
+		"translateFrom" : "speak"
+		},
+		{
+		"word" : "pukhlor",
+		"translateFrom" : "report"
+		},
+		{
+		"word" : "pul-",
+		"translateFrom" : "copulate"
+		},
+		{
+		"word" : "p?lp-",
+		"translateFrom" : "beat"
+		},
+		{
+		"word" : "p?lpum",
+		"translateFrom" : "drum"
+		},
+		{
+		"word" : "push",
+		"translateFrom" : "excrement,problem,trouble"
+		},
+		{
+		"word" : "pushdug",
+		"translateFrom" : "stinking,dung-filth,shit"
+		},
+		{
+		"word" : "pushi",
+		"translateFrom" : "having problems,in trouble"
+		},
+		{
+		"word" : "puzg-",
+		"translateFrom" : "stop"
+		},
+		{
+		"word" : "puzughl-",
+		"translateFrom" : "stop up"
+		},
+		{
+		"word" : "quiin",
+		"translateFrom" : "bow,weapon"
+		},
+		{
+		"word" : "quiil",
+		"translateFrom" : "quiet,still"
+		},
+		{
+		"word" : "raakh",
+		"translateFrom" : "cleft"
+		},
+		{
+		"word" : "raakh-",
+		"translateFrom" : "cleave"
+		},
+		{
+		"word" : "raakhuga",
+		"translateFrom" : "cloven past participle"
+		},
+		{
+		"word" : "rad",
+		"translateFrom" : "now,immediately,yet"
+		},
+		{
+		"word" : "rai",
+		"translateFrom" : "kettle,pot"
+		},
+		{
+		"word" : "rak",
+		"translateFrom" : "class,race,clan,family"
+		},
+		{
+		"word" : "rakoth?rz",
+		"translateFrom" : "uncanny,weird"
+		},
+		{
+		"word" : "ran",
+		"translateFrom" : "moon,month"
+		},
+		{
+		"word" : "rar",
+		"translateFrom" : "sand"
+		},
+		{
+		"word" : "ras",
+		"translateFrom" : "horn"
+		},
+		{
+		"word" : "rat",
+		"translateFrom" : "ransom,loot,booty"
+		},
+		{
+		"word" : "rau",
+		"translateFrom" : "ale,beer"
+		},
+		{
+		"word" : "raulik",
+		"translateFrom" : "beerbarrel"
+		},
+		{
+		"word" : "raz",
+		"translateFrom" : "odd,strange,weird"
+		},
+		{
+		"word" : "-ri",
+		"translateFrom" : "between prep"
+		},
+		{
+		"word" : "riink-",
+		"translateFrom" : "shake"
+		},
+		{
+		"word" : "riip-",
+		"translateFrom" : "skin"
+		},
+		{
+		"word" : "riip",
+		"translateFrom" : "skin"
+		},
+		{
+		"word" : "riit",
+		"translateFrom" : "web,net"
+		},
+		{
+		"word" : "rim",
+		"translateFrom" : "copper"
+		},
+		{
+		"word" : "ro",
+		"translateFrom" : "cloud"
+		},
+		{
+		"word" : "rok-",
+		"translateFrom" : "seize,hold of"
+		},
+		{
+		"word" : "ronk",
+		"translateFrom" : "pit,pool"
+		},
+		{
+		"word" : "ronk?rz",
+		"translateFrom" : "deep"
+		},
+		{
+		"word" : "roth",
+		"translateFrom" : "circle"
+		},
+		{
+		"word" : "roz",
+		"translateFrom" : "stable"
+		},
+		{
+		"word" : "rukh",
+		"translateFrom" : "horror"
+		},
+		{
+		"word" : "ru",
+		"translateFrom" : "hall"
+		},
+		{
+		"word" : "rukul",
+		"translateFrom" : "wheel"
+		},
+		{
+		"word" : "rul-",
+		"translateFrom" : "damage"
+		},
+		{
+		"word" : "rulum",
+		"translateFrom" : "damage"
+		},
+		{
+		"word" : "r?m-",
+		"translateFrom" : "move"
+		},
+		{
+		"word" : "rung",
+		"translateFrom" : "avalanche"
+		},
+		{
+		"word" : "runk-",
+		"translateFrom" : "hang"
+		},
+		{
+		"word" : "rut",
+		"translateFrom" : "six cardinal"
+		},
+		{
+		"word" : "r?gh",
+		"translateFrom" : "every"
+		},
+		{
+		"word" : "r?k",
+		"translateFrom" : "horse"
+		},
+		{
+		"word" : "r?k-",
+		"translateFrom" : "ride"
+		},
+		{
+		"word" : "r?p",
+		"translateFrom" : "leather strap"
+		},
+		{
+		"word" : "r?z",
+		"translateFrom" : "sure"
+		},
+		{
+		"word" : "saakaf",
+		"translateFrom" : "falcon"
+		},
+		{
+		"word" : "saar",
+		"translateFrom" : "bitter taste"
+		},
+		{
+		"word" : "sadaauk",
+		"translateFrom" : "attack of disease"
+		},
+		{
+		"word" : "sagr?rz",
+		"translateFrom" : "of bitter disposition"
+		},
+		{
+		"word" : "sapat",
+		"translateFrom" : "axe"
+		},
+		{
+		"word" : "Saruman",
+		"translateFrom" : "the wizard name"
+		},
+		{
+		"word" : "sat-",
+		"translateFrom" : "begin"
+		},
+		{
+		"word" : "sat",
+		"translateFrom" : "dust,powder"
+		},
+		{
+		"word" : "satum",
+		"translateFrom" : "beginning"
+		},
+		{
+		"word" : "sha",
+		"translateFrom" : "disgust,disgusting"
+		},
+		{
+		"word" : "shaataz",
+		"translateFrom" : "troublemaker"
+		},
+		{
+		"word" : "shaatii",
+		"translateFrom" : "spear"
+		},
+		{
+		"word" : "shad?rz",
+		"translateFrom" : "deaf,small"
+		},
+		{
+		"word" : "shag-",
+		"translateFrom" : "demand,ask"
+		},
+		{
+		"word" : "shakal",
+		"translateFrom" : "stairs"
+		},
+		{
+		"word" : "shakatrog-",
+		"translateFrom" : "devastate,ruin"
+		},
+		{
+		"word" : "shakh",
+		"translateFrom" : "lord"
+		},
+		{
+		"word" : "shakol-",
+		"translateFrom" : "kick"
+		},
+		{
+		"word" : "shakop",
+		"translateFrom" : "club,weapon"
+		},
+		{
+		"word" : "shakrop-",
+		"translateFrom" : "stay"
+		},
+		{
+		"word" : "-shakgriig-",
+		"translateFrom" : "melt,forge"
+		},
+		{
+		"word" : "shalk",
+		"translateFrom" : "group"
+		},
+		{
+		"word" : "shapat",
+		"translateFrom" : "short sword"
+		},
+		{
+		"word" : "shaplag-",
+		"translateFrom" : "rinse,wash"
+		},
+		{
+		"word" : "shapog",
+		"translateFrom" : "vegeance"
+		},
+		{
+		"word" : "shapog-",
+		"translateFrom" : "avenge"
+		},
+		{
+		"word" : "shapogataar",
+		"translateFrom" : "avenger"
+		},
+		{
+		"word" : "shaporr?rz",
+		"translateFrom" : "offensive,rude"
+		},
+		{
+		"word" : "shar-",
+		"translateFrom" : "keep quiet"
+		},
+		{
+		"word" : "-shar",
+		"translateFrom" : "among"
+		},
+		{
+		"word" : "shara",
+		"translateFrom" : "man"
+		},
+		{
+		"word" : "sharlob",
+		"translateFrom" : "woman"
+		},
+		{
+		"word" : "shark?",
+		"translateFrom" : "old man"
+		},
+		{
+		"word" : "shark?lob",
+		"translateFrom" : "old woman"
+		},
+		{
+		"word" : "sharr",
+		"translateFrom" : "saw"
+		},
+		{
+		"word" : "shatauz",
+		"translateFrom" : "lance"
+		},
+		{
+		"word" : "shatiig-",
+		"translateFrom" : "press"
+		},
+		{
+		"word" : "shatog",
+		"translateFrom" : "track"
+		},
+		{
+		"word" : "shatogtar",
+		"translateFrom" : "nomad"
+		},
+		{
+		"word" : "shator-",
+		"translateFrom" : "build"
+		},
+		{
+		"word" : "shatraug",
+		"translateFrom" : "hag,witch"
+		},
+		{
+		"word" : "shat?l",
+		"translateFrom" : "post,column,pillar"
+		},
+		{
+		"word" : "shat?p-",
+		"translateFrom" : "crush,shatter,destroy"
+		},
+		{
+		"word" : "shau",
+		"translateFrom" : "quiet"
+		},
+		{
+		"word" : "shauarz",
+		"translateFrom" : "quietly"
+		},
+		{
+		"word" : "sha?k",
+		"translateFrom" : "companion"
+		},
+		{
+		"word" : "sha?k?rzum",
+		"translateFrom" : "company"
+		},
+		{
+		"word" : "shaut",
+		"translateFrom" : "almost"
+		},
+		{
+		"word" : "Shelobzagh",
+		"translateFrom" : "Cirith Ungol name"
+		},
+		{
+		"word" : "shiik",
+		"translateFrom" : "scream"
+		},
+		{
+		"word" : "shiik-",
+		"translateFrom" : "scream"
+		},
+		{
+		"word" : "shiipog-",
+		"translateFrom" : "taste"
+		},
+		{
+		"word" : "shon",
+		"translateFrom" : "symbol,sign,omen"
+		},
+		{
+		"word" : "shra",
+		"translateFrom" : "person"
+		},
+		{
+		"word" : "shrak",
+		"translateFrom" : "assembly,gathering"
+		},
+		{
+		"word" : "shrakh-",
+		"translateFrom" : "assemble"
+		},
+		{
+		"word" : "shuk",
+		"translateFrom" : "ball,globe,sphere"
+		},
+		{
+		"word" : "shulg-",
+		"translateFrom" : "would"
+		},
+		{
+		"word" : "shum",
+		"translateFrom" : "greatly,very much"
+		},
+		{
+		"word" : "sig-",
+		"translateFrom" : "lengthen,stretch"
+		},
+		{
+		"word" : "sig?rz",
+		"translateFrom" : "long"
+		},
+		{
+		"word" : "skaat-",
+		"translateFrom" : "come"
+		},
+		{
+		"word" : "skai",
+		"translateFrom" : "gah,gosh,guh,oh,ph'o"
+		},
+		{
+		"word" : "skamm-",
+		"translateFrom" : "recite"
+		},
+		{
+		"word" : "skazg-",
+		"translateFrom" : "injure"
+		},
+		{
+		"word" : "skessa-",
+		"translateFrom" : "very ugly woman,female troll,your mother"
+		},
+		{
+		"word" : "skhelll-",
+		"translateFrom" : "tortoise,tortoise shell"
+		},
+		{
+		"word" : "skoi",
+		"translateFrom" : "fly,butterfly,insect,dragonfly"
+		},
+		{
+		"word" : "skoi-",
+		"translateFrom" : "fly"
+		},
+		{
+		"word" : "skoir",
+		"translateFrom" : "wing"
+		},
+		{
+		"word" : "skoiug",
+		"translateFrom" : "flying"
+		},
+		{
+		"word" : "skort",
+		"translateFrom" : "basket"
+		},
+		{
+		"word" : "skri",
+		"translateFrom" : "eight"
+		},
+		{
+		"word" : "skrith?rz",
+		"translateFrom" : "mean,cruel"
+		},
+		{
+		"word" : "skrizg-",
+		"translateFrom" : "creep,crawl"
+		},
+		{
+		"word" : "skugga",
+		"translateFrom" : "run aground,beached,entrenched,shipwrecked"
+		},
+		{
+		"word" : "sk?t",
+		"translateFrom" : "shield"
+		},
+		{
+		"word" : "sk?tog-",
+		"translateFrom" : "defend,parry,fend off"
+		},
+		{
+		"word" : "sk?t?rz",
+		"translateFrom" : "defensive"
+		},
+		{
+		"word" : "sk?m-",
+		"translateFrom" : "smell"
+		},
+		{
+		"word" : "sk?m",
+		"translateFrom" : "odor"
+		},
+		{
+		"word" : "slai-",
+		"translateFrom" : "live"
+		},
+		{
+		"word" : "slaium",
+		"translateFrom" : "life"
+		},
+		{
+		"word" : "slaiug",
+		"translateFrom" : "living"
+		},
+		{
+		"word" : "slai?rz",
+		"translateFrom" : "alive"
+		},
+		{
+		"word" : "sloi-",
+		"translateFrom" : "accuse"
+		},
+		{
+		"word" : "sloiuga",
+		"translateFrom" : "accused"
+		},
+		{
+		"word" : "snaag",
+		"translateFrom" : "soft,tender,gentle,weak"
+		},
+		{
+		"word" : "snaagb?rz",
+		"translateFrom" : "dark gray"
+		},
+		{
+		"word" : "snag-",
+		"translateFrom" : "labor,work"
+		},
+		{
+		"word" : "snaga",
+		"translateFrom" : "slave"
+		},
+		{
+		"word" : "snak",
+		"translateFrom" : "rapid,quick,hasty"
+		},
+		{
+		"word" : "snork",
+		"translateFrom" : "worthless"
+		},
+		{
+		"word" : "sn?",
+		"translateFrom" : "than"
+		},
+		{
+		"word" : "sorgh-",
+		"translateFrom" : "split,cleave"
+		},
+		{
+		"word" : "sorr",
+		"translateFrom" : "crow"
+		},
+		{
+		"word" : "spaz",
+		"translateFrom" : "point,spike"
+		},
+		{
+		"word" : "srinkh",
+		"translateFrom" : "class,kind"
+		},
+		{
+		"word" : "srinkh-",
+		"translateFrom" : "gather"
+		},
+		{
+		"word" : "srinkhsha-",
+		"translateFrom" : "understand"
+		},
+		{
+		"word" : "sripsh",
+		"translateFrom" : "know-it-all,expert"
+		},
+		{
+		"word" : "sriz",
+		"translateFrom" : "expert in,skilled,good at"
+		},
+		{
+		"word" : "sru",
+		"translateFrom" : "grain,corn,wheat"
+		},
+		{
+		"word" : "starg?sh",
+		"translateFrom" : "ancestor"
+		},
+		{
+		"word" : "starkok",
+		"translateFrom" : "raven"
+		},
+		{
+		"word" : "stauk",
+		"translateFrom" : "spark"
+		},
+		{
+		"word" : "staun",
+		"translateFrom" : "season"
+		},
+		{
+		"word" : "staaz",
+		"translateFrom" : "monster"
+		},
+		{
+		"word" : "stazg",
+		"translateFrom" : "place"
+		},
+		{
+		"word" : "stral",
+		"translateFrom" : "flint"
+		},
+		{
+		"word" : "strok",
+		"translateFrom" : "refuge,sanctuary"
+		},
+		{
+		"word" : "sul",
+		"translateFrom" : "famous,well-known"
+		},
+		{
+		"word" : "sulmog",
+		"translateFrom" : "raid"
+		},
+		{
+		"word" : "sulm?rz",
+		"translateFrom" : "aggressive"
+		},
+		{
+		"word" : "sulum",
+		"translateFrom" : "rumor,report"
+		},
+		{
+		"word" : "s?-",
+		"translateFrom" : "breathe"
+		},
+		{
+		"word" : "s?m",
+		"translateFrom" : "breath"
+		},
+		{
+		"word" : "s?r",
+		"translateFrom" : "up"
+		},
+		{
+		"word" : "ta",
+		"translateFrom" : "he"
+		},
+		{
+		"word" : "-ta",
+		"translateFrom" : "him"
+		},
+		{
+		"word" : "taal",
+		"translateFrom" : "floor"
+		},
+		{
+		"word" : "taar",
+		"translateFrom" : "high"
+		},
+		{
+		"word" : "taaraan",
+		"translateFrom" : "noon"
+		},
+		{
+		"word" : "t?rpukhlanr-",
+		"translateFrom" : "enquire"
+		},
+		{
+		"word" : "tab",
+		"translateFrom" : "his"
+		},
+		{
+		"word" : "tabz-",
+		"translateFrom" : "own"
+		},
+		{
+		"word" : "tail",
+		"translateFrom" : "play,exercise,training"
+		},
+		{
+		"word" : "tail-",
+		"translateFrom" : "play,train"
+		},
+		{
+		"word" : "takhbork",
+		"translateFrom" : "spider"
+		},
+		{
+		"word" : "-tala",
+		"translateFrom" : "over"
+		},
+		{
+		"word" : "tala",
+		"translateFrom" : "above prep EL"
+		},
+		{
+		"word" : "talaan",
+		"translateFrom" : "North"
+		},
+		{
+		"word" : "talum",
+		"translateFrom" : "upper side, top"
+		},
+		{
+		"word" : "tal?n",
+		"translateFrom" : "butter"
+		},
+		{
+		"word" : "tal?n-kark?",
+		"translateFrom" : "semen"
+		},
+		{
+		"word" : "tarbaam",
+		"translateFrom" : "fury,frenzy"
+		},
+		{
+		"word" : "tarb?rz",
+		"translateFrom" : "insane"
+		},
+		{
+		"word" : "tark",
+		"translateFrom" : "human"
+		},
+		{
+		"word" : "tarshan",
+		"translateFrom" : "oats"
+		},
+		{
+		"word" : "tau",
+		"translateFrom" : "forest,wood"
+		},
+		{
+		"word" : "Taub?rz",
+		"translateFrom" : "Mirkwood name"
+		},
+		{
+		"word" : "taugan",
+		"translateFrom" : "frying pan"
+		},
+		{
+		"word" : "taun",
+		"translateFrom" : "tub,vat"
+		},
+		{
+		"word" : "thag",
+		"translateFrom" : "drought"
+		},
+		{
+		"word" : "thag-",
+		"translateFrom" : "dry out"
+		},
+		{
+		"word" : "thag?rz",
+		"translateFrom" : "dry"
+		},
+		{
+		"word" : "thaguzg",
+		"translateFrom" : "desert"
+		},
+		{
+		"word" : "thak",
+		"translateFrom" : "face"
+		},
+		{
+		"word" : "tharb",
+		"translateFrom" : "acid"
+		},
+		{
+		"word" : "tharb?rz",
+		"translateFrom" : "acrid"
+		},
+		{
+		"word" : "thauk",
+		"translateFrom" : "dagger"
+		},
+		{
+		"word" : "thil",
+		"translateFrom" : "often"
+		},
+		{
+		"word" : "thl?k!",
+		"translateFrom" : "Enough"
+		},
+		{
+		"word" : "thl?k",
+		"translateFrom" : "enough,sufficient"
+		},
+		{
+		"word" : "thl?n",
+		"translateFrom" : "stomach"
+		},
+		{
+		"word" : "thor-",
+		"translateFrom" : "massacre"
+		},
+		{
+		"word" : "thoror",
+		"translateFrom" : "altar"
+		},
+		{
+		"word" : "thos",
+		"translateFrom" : "sack"
+		},
+		{
+		"word" : "thraang",
+		"translateFrom" : "rage"
+		},
+		{
+		"word" : "thrang",
+		"translateFrom" : "furthermore,still"
+		},
+		{
+		"word" : "throqu?rz",
+		"translateFrom" : "edible,hungry"
+		},
+		{
+		"word" : "thrug",
+		"translateFrom" : "murderer"
+		},
+		{
+		"word" : "thumbog-",
+		"translateFrom" : "embroider"
+		},
+		{
+		"word" : "thundar",
+		"translateFrom" : "hoof"
+		},
+		{
+		"word" : "thup-",
+		"translateFrom" : "whip"
+		},
+		{
+		"word" : "thrak",
+		"translateFrom" : "tribute"
+		},
+		{
+		"word" : "thrak-",
+		"translateFrom" : "bring"
+		},
+		{
+		"word" : "thrakum",
+		"translateFrom" : "obsequious,submissive"
+		},
+		{
+		"word" : "throqu-",
+		"translateFrom" : "devour"
+		},
+		{
+		"word" : "throqum",
+		"translateFrom" : "hunger"
+		},
+		{
+		"word" : "thrul-",
+		"translateFrom" : "cook"
+		},
+		{
+		"word" : "-thu",
+		"translateFrom" : "beyond"
+		},
+		{
+		"word" : "tiil",
+		"translateFrom" : "last"
+		},
+		{
+		"word" : "tiimor",
+		"translateFrom" : "dread,terror"
+		},
+		{
+		"word" : "tiim?rz",
+		"translateFrom" : "dreadful,terrible"
+		},
+		{
+		"word" : "tiir",
+		"translateFrom" : "right"
+		},
+		{
+		"word" : "tith",
+		"translateFrom" : "bat"
+		},
+		{
+		"word" : "tog",
+		"translateFrom" : "bench,seat"
+		},
+		{
+		"word" : "to",
+		"translateFrom" : "her"
+		},
+		{
+		"word" : "-tob",
+		"translateFrom" : "her,hers
+		},
+		{
+		"word" : "tonphrakh-",
+		"translateFrom" : "suppose"
+		},
+		{
+		"word" : "tor",
+		"translateFrom" : "pleasant,beautiful,comfortable"
+		},
+		{
+		"word" : "tor?",
+		"translateFrom" : "dangerous"
+		},
+		{
+		"word" : "tra",
+		"translateFrom" : "beam of wood,wooden beam"
+		},
+		{
+		"word" : "traf",
+		"translateFrom" : "meeting"
+		},
+		{
+		"word" : "tram",
+		"translateFrom" : "rape"
+		},
+		{
+		"word" : "tram-",
+		"translateFrom" : "rape"
+		},
+		{
+		"word" : "tramug",
+		"translateFrom" : "rebellion,riot"
+		},
+		{
+		"word" : "traum-",
+		"translateFrom" : "show"
+		},
+		{
+		"word" : "triin",
+		"translateFrom" : "mad,crazy"
+		},
+		{
+		"word" : "trod",
+		"translateFrom" : "castration"
+		},
+		{
+		"word" : "trog",
+		"translateFrom" : "market"
+		},
+		{
+		"word" : "trosh",
+		"translateFrom" : "sudden"
+		},
+		{
+			"word" : "trosharz",
+			"translateFrom" : "suddenly"
+		},
+		{
+			"word" : "trov",
+			"translateFrom" : "territory"
+		},
+		{
+			"word" : "tr?",
+			"translateFrom" : "brain"
+		},
+		{
+			"word" : "trul",
+			"translateFrom" : "floor,story"
+		},
+		{
+			"word" : "trupp",
+			"translateFrom" : "lamp"
+		},
+		{
+			"word" : "t?",
+			"translateFrom" : "fat,fleshy,flabby"
+		},
+		{
+			"word" : "tug",
+			"translateFrom" : "only"
+		},
+		{
+			"word" : "tugl-",
+			"translateFrom" : "attempt,try"
+		},
+		{
+			"word" : "-tuk",
+			"translateFrom" : "through prep"
+		},
+		{
+			"word" : "tul",
+			"translateFrom" : "here"
+		},
+		{
+			"word" : "tulk-",
+			"translateFrom" : "lift"
+		},
+		{
+			"word" : "tulum-",
+			"translateFrom" : "pump"
+		},
+		{
+			"word" : "tum",
+			"translateFrom" : "belief"
+		},
+		{
+			"word" : "tur",
+			"translateFrom" : "opinion"
+		},
+		{
+			"word" : "turk",
+			"translateFrom" : "value,worth"
+		},
+		{
+			"word" : "turk-",
+			"translateFrom" : "value"
+		},
+		{
+			"word" : "turk?rz",
+			"translateFrom" : "valuable,worthy"
+		},
+		{
+			"word" : "turr",
+			"translateFrom" : "embankment"
+		},
+		{
+			"word" : "t?m",
+			"translateFrom" : "oil,grease"
+		},
+		{
+			"word" : "t?r-",
+			"translateFrom" : "cause"
+		},
+		{
+			"word" : "t?rum",
+			"translateFrom" : "cause"
+		},
+		{
+			"word" : "turu",
+			"translateFrom" : "many"
+		},
+		{
+			"word" : "t?zantar",
+			"translateFrom" : "engineer"
+		},
+		{
+			"word" : "t?zg-",
+			"translateFrom" : "admit"
+		},
+		{
+			"word" : "-u",
+			"translateFrom" : "to"
+		},
+		{
+			"word" : "udalg-",
+			"translateFrom" : "connect"
+		},
+		{
+			"word" : "udalgum",
+			"translateFrom" : "connection"
+		},
+		{
+			"word" : "udalg?rz",
+			"translateFrom" : "connected"
+		},
+		{
+			"word" : "udalug",
+			"translateFrom" : "message"
+		},
+		{
+			"word" : "udu",
+			"translateFrom" : "seven"
+		},
+		{
+			"word" : "uf-",
+			"translateFrom" : "frighten"
+		},
+		{
+			"word" : "uf",
+			"translateFrom" : "frightening,scary"
+		},
+		{
+			"word" : "ufum",
+			"translateFrom" : "fear"
+		},
+		{
+			"word" : "ufur-",
+			"translateFrom" : "fear"
+		},
+		{
+			"word" : "uf?rz",
+			"translateFrom" : "fearful"
+		},
+		{
+			"word" : "ugadhol",
+			"translateFrom" : "island"
+		},
+		{
+			"word" : "ugh",
+			"translateFrom" : "each"
+		},
+		{
+			"word" : "-ugil",
+			"translateFrom" : "before"
+		},
+		{
+			"word" : "ugl-",
+			"translateFrom" : "slay,massacre"
+		},
+		{
+			"word" : "Ug?rz",
+			"translateFrom" : "terrible,ghastly"
+		},
+		{
+			"word" : "uk",
+			"translateFrom" : "all"
+		},
+		{
+			"word" : "ukh-",
+			"translateFrom" : "go"
+		},
+		{
+			"word" : "ukhurk-",
+			"translateFrom" : "forsake"
+		},
+		{
+			"word" : "ukmash",
+			"translateFrom" : "both"
+		},
+		{
+			"word" : "uk?",
+			"translateFrom" : "eternal"
+		},
+		{
+			"word" : "ulb",
+			"translateFrom" : "blue"
+		},
+		{
+			"word" : "uliima",
+			"translateFrom" : "throne"
+		},
+		{
+			"word" : "ulkum",
+			"translateFrom" : "evil"
+		},
+		{
+			"word" : "ulk?rz",
+			"translateFrom" : "evil"
+		},
+		{
+			"word" : "-ul",
+			"translateFrom" : "them"
+		},
+		{
+			"word" : "ulmakh",
+			"translateFrom" : "alongside,along"
+		},
+		{
+			"word" : "uloga",
+			"translateFrom" : "crippled"
+		},
+		{
+			"word" : "ulu",
+			"translateFrom" : "they"
+		},
+		{
+			"word" : "-ulub",
+			"translateFrom" : "their,theirs"
+		},
+		{
+			"word" : "uludhu",
+			"translateFrom" : "easy"
+		},
+		{
+			"word" : "ulur-",
+			"translateFrom" : "howl,bellow"
+		},
+		{
+			"word" : "ump",
+			"translateFrom" : "board"
+		},
+		{
+			"word" : "unur",
+			"translateFrom" : "hold"
+		},
+		{
+			"word" : "unr-",
+			"translateFrom" : "hold"
+		},
+		{
+			"word" : "unudh-",
+			"translateFrom" : "detain"
+		},
+		{
+			"word" : "unudhu",
+			"translateFrom" : "detention"
+		},
+		{
+			"word" : "?gh-",
+			"translateFrom" : "suffice"
+		},
+		{
+			"word" : "?gh?rz",
+			"translateFrom" : "sufficient"
+		},
+		{
+			"word" : "?kil",
+			"translateFrom" : "always"
+		},
+		{
+			"word" : "?n",
+			"translateFrom" : "new"
+		},
+		{
+			"word" : "?nd?rz",
+			"translateFrom" : "fresh"
+		},
+		{
+			"word" : "urauk",
+			"translateFrom" : "hedgehog"
+		},
+		{
+			"word" : "urauth",
+			"translateFrom" : "mole"
+		},
+		{
+			"word" : "urbh-",
+			"translateFrom" : "pile,mountain"
+		},
+		{
+			"word" : "urbhrum",
+			"translateFrom" : "height"
+		},
+		{
+			"word" : "urdan",
+			"translateFrom" : "decision"
+		},
+		{
+			"word" : "urdan-",
+			"translateFrom" : "decide"
+		},
+		{
+			"word" : "urgai-",
+			"translateFrom" : "place,arrange,put"
+		},
+		{
+			"word" : "urk",
+			"translateFrom" : "damn"
+		},
+		{
+			"word" : "urk-",
+			"translateFrom" : "condemn"
+		},
+		{
+			"word" : "urrhak-",
+			"translateFrom" : "make a mistake,oops,mistake,whoops,problem"
+		},
+		{
+			"word" : "urro",
+			"translateFrom" : "revulsion, disgust"
+		},
+		{
+			"word" : "urrog-",
+			"translateFrom" : "hate with revulsion,feel disgust"
+		},
+		{
+			"word" : "urr?rz",
+			"translateFrom" : "disgusting,repulsive"
+		},
+		{
+			"word" : "urzk?",
+			"translateFrom" : "again"
+		},
+		{
+			"word" : "ush",
+			"translateFrom" : "brawl,tavern fight"
+		},
+		{
+			"word" : "ush-",
+			"translateFrom" : "brawl,brangle"
+		},
+		{
+			"word" : "ushd-",
+			"translateFrom" : "use"
+		},
+		{
+			"word" : "ushd?n",
+			"translateFrom" : "usefull"
+		},
+		{
+			"word" : "ushk-",
+			"translateFrom" : "feed"
+		},
+		{
+			"word" : "?gh",
+			"translateFrom" : "each"
+		},
+		{
+			"word" : "?sht-",
+			"translateFrom" : "argue"
+		},
+		{
+			"word" : "?shtum",
+			"translateFrom" : "argument"
+		},
+		{
+			"word" : "ushum",
+			"translateFrom" : "challenge to a fight"
+		},
+		{
+			"word" : "?s-",
+			"translateFrom" : "think"
+		},
+		{
+			"word" : "?sum",
+			"translateFrom" : "thought"
+		},
+		{
+			"word" : "?tot",
+			"translateFrom" : "village"
+		},
+		{
+			"word" : "uzg",
+			"translateFrom" : "land"
+		},
+		{
+			"word" : "Yag?l",
+			"translateFrom" : "an orc name"
+		},
+		{
+			"word" : "yonk",
+			"translateFrom" : "more"
+		},
+		{
+			"word" : "y?l",
+			"translateFrom" : "less"
+		},
+		{
+			"word" : "za",
+			"translateFrom" : "this,that"
+		},
+		{
+			"word" : "zam",
+			"translateFrom" : "such"
+		},
+		{
+			"word" : "zaa-",
+			"translateFrom" : "grip"
+		},
+		{
+			"word" : "zaabr-",
+			"translateFrom" : "descend,climb down"
+		},
+		{
+			"word" : "zaan",
+			"translateFrom" : "cup"
+		},
+		{
+			"word" : "zaan?rz",
+			"translateFrom" : "loud-mouthed"
+		},
+		{
+			"word" : "zaarsh",
+			"translateFrom" : "today"
+		},
+		{
+			"word" : "zabiis",
+			"translateFrom" : "gang"
+		},
+		{
+			"word" : "zaboth",
+			"translateFrom" : "pale"
+		},
+		{
+			"word" : "zab?rz",
+			"translateFrom" : "tonight"
+		},
+		{
+			"word" : "zabr?z",
+			"translateFrom" : "empty,hollow"
+		},
+		{
+			"word" : "zag",
+			"translateFrom" : "four"
+		},
+		{
+			"word" : "zagaaf-",
+			"translateFrom" : "bury"
+		},
+		{
+			"word" : "zagaafum",
+			"translateFrom" : "grave"
+		},
+		{
+			"word" : "zagh",
+			"translateFrom" : "mountain pass"
+		},
+		{
+			"word" : "zaagiira",
+			"translateFrom" : "okay"
+		},
+		{
+			"word" : "zaagiir-",
+			"translateFrom" : "joke"
+		},
+		{
+			"word" : "zaahof",
+			"translateFrom" : "jewel"
+		},
+		{
+			"word" : "zakrif-",
+			"translateFrom" : "butt against,butt-smush,smush"
+		},
+		{
+			"word" : "zamal",
+			"translateFrom" : "that"
+		},
+		{
+			"word" : "zark",
+			"translateFrom" : "fine"
+		},
+		{
+			"word" : "zarza",
+			"translateFrom" : "vegetable"
+		},
+		{
+			"word" : "zash",
+			"translateFrom" : "like,same as"
+		},
+		{
+			"word" : "zaashil",
+			"translateFrom" : "while,meantime"
+		},
+		{
+			"word" : "zatal",
+			"translateFrom" : "so,therefore"
+		},
+		{
+			"word" : "zau",
+			"translateFrom" : "stew,soup"
+		},
+		{
+			"word" : "zau-",
+			"translateFrom" : "cook boil,stew"
+		},
+		{
+			"word" : "zaug",
+			"translateFrom" : "debt,fault"
+		},
+		{
+			"word" : "zaug-",
+			"translateFrom" : "must,have to"
+		},
+		{
+			"word" : "zer",
+			"translateFrom" : "snot"
+		},
+		{
+			"word" : "-zi",
+			"translateFrom" : "until"
+		},
+		{
+			"word" : "zigl",
+			"translateFrom" : "edge,cut from a knife,slice"
+		},
+		{
+			"word" : "zgur-",
+			"translateFrom" : "thunder"
+		},
+		{
+			"word" : "zhaf",
+			"translateFrom" : "hollow"
+		},
+		{
+			"word" : "zhol",
+			"translateFrom" : "rag"
+		},
+		{
+			"word" : "zholuga",
+			"translateFrom" : "ragged"
+		},
+		{
+			"word" : "ziim-",
+			"translateFrom" : "brew"
+		},
+		{
+			"word" : "ziimarum",
+			"translateFrom" : "peace"
+		},
+		{
+			"word" : "ziimarp",
+			"translateFrom" : "coward"
+		},
+		{
+			"word" : "ziim?rz",
+			"translateFrom" : "cowardly"
+		},
+		{
+			"word" : "zim",
+			"translateFrom" : "quantity,amount,volume"
+		},
+		{
+			"word" : "zna",
+			"translateFrom" : "form,shape"
+		},
+		{
+			"word" : "zn?g",
+			"translateFrom" : "regret"
+		},
+		{
+			"word" : "zn?g-",
+			"translateFrom" : "regret"
+		},
+		{
+			"word" : "zogtark",
+			"translateFrom" : "bare,naked"
+		},
+		{
+			"word" : "zongot",
+			"translateFrom" : "engineer"
+		},
+		{
+			"word" : "zorr-",
+			"translateFrom" : "disembowel,plunder,pillage"
+		},
+		{
+			"word" : "zoshk",
+			"translateFrom" : "bronze"
+		},
+		{
+			"word" : "zof-",
+			"translateFrom" : "crawl"
+		},
+		{
+			"word" : "zooza-marz",
+			"translateFrom" : "hangover"
+		},
+		{
+			"word" : "zrii",
+			"translateFrom" : "joy,amusement,sadistic pleasure"
+		},
+		{
+			"word" : "zriium",
+			"translateFrom" : "sadism"
+		},
+		{
+			"word" : "zu-",
+			"translateFrom" : "suck"
+		},
+		{
+			"word" : "z?bardh",
+			"translateFrom" : "silver"
+		},
+		{
+			"word" : "zug",
+			"translateFrom" : "lip,border"
+		},
+		{
+			"word" : "zurm",
+			"translateFrom" : "noise,racket"
+		},
+		{
+			"word" : "zung-",
+			"translateFrom" : "pierce"
+		},
+		{
+			"word" : "z?r",
+			"translateFrom" : "sly,wise"
+		},
+		{
+			"word" : "z?rz",
+			"translateFrom" : "official"
+		},
+		{
+			"word" : "zuzar",
+			"translateFrom" : "villain,scoundrel"
+		},
